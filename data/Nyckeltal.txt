@@ -1,0 +1,18 @@
+N15419¤Elever i år 9 som uppnått kunskapskraven i alla ämnen, kommunala skolor, andel (%) 
+N15505¤Elever i åk. 9, meritvärde kommunala skolor, genomsnitt (17 ämnen) 
+N15436¤Elever i åk 9 som är behöriga till yrkesprogram, kommunala skolor, andel (%) 
+U15461¤Elever i år 9 som är behöriga till yrkespr. avvikelse från modellberäknat värde kommunala skolor, procentenheter
+N15485¤Elever i åk 6 med lägst betyget E i matematik, kommunala skolor, andel (%) 
+N15488¤Elever i åk 6 med lägst betyget E i svenska, kommunala skolor, andel (%) 
+N15574¤Elever i år 9 som fått ett högre betyg än provbetyg för ämnesprov i engelska, kommunala skolor, andel (%) 
+N15573¤Elever i år 9 som fått ett lägre betyg än provbetyg för ämnesprov i engelska, kommunala skolor, andel (%) 
+N15572¤Elever i år 9 som fått ett högre betyg än provbetyg för ämnesprov i matematik, kommunala skolor, andel (%) 
+N15571¤Elever i år 9 som fått ett lägre betyg än provbetyg för ämnesprov i matematik, kommunala skolor, andel (%) 
+N15570¤Elever i år 9 som fått ett högre betyg än provbetyg för ämnesprov i svenska, kommunala skolor, andel (%) 
+N15569¤Elever i år 9 som fått ett lägre betyg än provbetyg för ämnesprov i svenska, kommunala skolor, andel (%)
+N15814¤Lärare (heltidstjänster) med lärarlegitimation och behörighet i minst ett ämne i grundskola åk 1-9, kommunala skolor, andel (%) 
+N15034¤Elever/lärare (årsarbetare) i kommunal grundskola åk 1-9, lägeskommun, antal
+N15008¤Kostnad för kommunal grundskola åk 1-9, kr/elev
+N15902¤Nyinvandrade och elever med okänd bakgrund i kommunal grundskola åk. 1-9, andel (%), 
+N15823¤Nyinvandrade och elever med okänd bakgrund i år 9, kommunala skolor, andel (%), 
+N15820¤Elever vars föräldrar har eftergymnasial utbildning, åk 1-9 i kommunal grundskola, lägeskommun, andel (%), Lärare (heltidstjänster) med lärarlegitimation och behörighet i minst ett ämne i grundskola åk 1-9, kommunala skolor, andel (%)

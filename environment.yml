@@ -1,0 +1,10 @@
+dependencies:
+    - jupyterlab>=0.35
+    - numpy
+    - pip
+    - voila
+    - pip:
+        - jupyterlab_latex
+        - ipywidgets
+        - pandas
+        - plotly==4.5.*
