@@ -1,0 +1,33 @@
+DIAGRAM 1 SEKOM
+
+
+Nyckeltal N15419, 2016, SEKOM-grupp Blå, 57 av 59 kommuner.
+Nyckeltal N15419, 2016, SEKOM-grupp Gul, 69 av 75 kommuner.
+Nyckeltal N15419, 2017, SEKOM-grupp Blå, 57 av 59 kommuner.
+Nyckeltal N15419, 2017, SEKOM-grupp Gul, 73 av 75 kommuner.
+Nyckeltal N15419, 2018, SEKOM-grupp Blå, 57 av 59 kommuner.
+Nyckeltal N15419, 2018, SEKOM-grupp Gul, 71 av 75 kommuner.
+Nyckeltal N15419, 2019, SEKOM-grupp Gul, 71 av 75 kommuner.
+
+Nyckeltal N15505, 2016, SEKOM-grupp Gul, 73 av 75 kommuner.
+Nyckeltal N15505, 2017, SEKOM-grupp Gul, 73 av 75 kommuner.
+Nyckeltal N15505, 2018, SEKOM-grupp Blå, 58 av 59 kommuner.
+Nyckeltal N15505, 2018, SEKOM-grupp Gul, 74 av 75 kommuner.
+Nyckeltal N15505, 2019, SEKOM-grupp Gul, 74 av 75 kommuner.
+
+Nyckeltal N15436, 2016, SEKOM-grupp Blå, 46 av 59 kommuner.
+Nyckeltal N15436, 2016, SEKOM-grupp Grön, 60 av 65 kommuner.
+Nyckeltal N15436, 2016, SEKOM-grupp Gul, 54 av 75 kommuner.
+Nyckeltal N15436, 2016, SEKOM-grupp Lila, 34 av 36 kommuner.
+Nyckeltal N15436, 2016, SEKOM-grupp Orange, 54 av 55 kommuner.
+Nyckeltal N15436, 2017, SEKOM-grupp Blå, 52 av 59 kommuner.
+Nyckeltal N15436, 2017, SEKOM-grupp Grön, 60 av 65 kommuner.
+Nyckeltal N15436, 2017, SEKOM-grupp Gul, 57 av 75 kommuner.
+Nyckeltal N15436, 2018, SEKOM-grupp Blå, 51 av 59 kommuner.
+Nyckeltal N15436, 2018, SEKOM-grupp Grön, 62 av 65 kommuner.
+Nyckeltal N15436, 2018, SEKOM-grupp Gul, 54 av 75 kommuner.
+Nyckeltal N15436, 2019, SEKOM-grupp Blå, 48 av 59 kommuner.
+Nyckeltal N15436, 2019, SEKOM-grupp Grön, 58 av 65 kommuner.
+Nyckeltal N15436, 2019, SEKOM-grupp Gul, 53 av 75 kommuner.
+Nyckeltal N15436, 2019, SEKOM-grupp Lila, 31 av 36 kommuner.
+

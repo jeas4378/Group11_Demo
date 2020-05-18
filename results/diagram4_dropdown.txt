@@ -1,0 +1,30 @@
+DIAGRAM 4
+
+
+Engelska, över NP, N15574, 2016, 286 av 290.
+Engelska, över NP, N15574, 2017, 285 av 290.
+Engelska, över NP, N15574, 2018, 277 av 290.
+Engelska, över NP, N15574, 2019, 284 av 290.
+
+Engelska, under NP, N15573, 2016, 288 av 290.
+Engelska, under NP, N15573, 2017, 284 av 290.
+Engelska, under NP, N15573, 2018, 273 av 290.
+Engelska, under NP, N15573, 2019, 282 av 290.
+
+Matematik, över NP, N15572, 2018, 288 av 290.
+Matematik, över NP, N15572, 2019, 288 av 290.
+
+Matematik, under NP, N15571, 2016, 261 av 290.
+Matematik, under NP, N15571, 2017, 212 av 290.
+Matematik, under NP, N15571, 2018, 172 av 290.
+Matematik, under NP, N15571, 2019, 172 av 290.
+
+Svenska, över NP, N15570, 2017, 265 av 290.
+Svenska, över NP, N15570, 2018, 282 av 290.
+Svenska, över NP, N15570, 2019, 284 av 290.
+
+Svenska, under NP, N15569, 2016, 287 av 290.
+Svenska, under NP, N15569, 2017, 258 av 290.
+Svenska, under NP, N15569, 2018, 277 av 290.
+Svenska, under NP, N15569, 2019, 277 av 290.
+

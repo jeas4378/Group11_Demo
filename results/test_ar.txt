@@ -1,0 +1,845 @@
+VILKA ÅR SOM SAKNAS FÖR RESPEKTIVE KOMMUN OCH NYCKELTAL
+
+
+KOMMUN	|	NYCKELTAL	|	ÅR
+
+Ale		N15008		2019
+Ale		N15823		2016
+
+Alingsås		N15008		2019
+Alingsås		N15823		2016
+
+Alvesta		N15008		2019
+Alvesta		N15823		2016
+
+Aneby		N15008		2019
+Aneby		N15823		2016
+
+Arboga		N15008		2019
+Arboga		N15823		2016
+
+Arjeplog		N15008		2019
+Arjeplog		N15823		2016
+
+Arvidsjaur		N15008		2019
+Arvidsjaur		N15823		2016
+
+Arvika		N15823		2016
+
+Askersund		N15008		2019
+Askersund		N15823		2016
+
+Avesta		N15823		2016
+
+Bengtsfors		N15008		2019
+Bengtsfors		N15823		2016
+
+Berg		N15008		2019
+Berg		N15823		2016
+
+Bjurholm		N15008		2019
+Bjurholm		N15823		2016
+
+Bjuv		N15008		2019
+Bjuv		N15823		2016
+
+Boden		N15008		2019
+Boden		N15823		2016
+
+Bollebygd		N15008		2019
+Bollebygd		N15823		2016
+
+Bollnäs		N15008		2019
+Bollnäs		N15823		2016
+
+Borgholm		N15008		2019
+Borgholm		N15823		2016
+
+Borlänge		N15823		2016
+
+Borås		N15008		2019
+Borås		N15823		2016
+
+Botkyrka		N15008		2019
+Botkyrka		N15823		2016
+
+Boxholm		N15008		2019
+Boxholm		N15823		2016
+
+Bromölla		N15008		2019
+Bromölla		N15823		2016
+
+Bräcke		N15008		2019
+Bräcke		N15823		2016
+
+Burlöv		N15008		2019
+Burlöv		N15823		2016
+
+Båstad		N15008		2019
+Båstad		N15823		2016
+
+Dals-Ed		N15008		2019
+Dals-Ed		N15823		2016
+
+Danderyd		N15008		2019
+Danderyd		N15823		2016
+
+Degerfors		N15008		2019
+Degerfors		N15823		2016
+
+Dorotea		N15008		2019
+Dorotea		N15823		2016
+
+Eda		N15008		2019
+Eda		N15823		2016
+
+Ekerö		N15008		2019
+Ekerö		N15823		2016
+
+Eksjö		N15008		2019
+Eksjö		N15823		2016
+
+Emmaboda		N15823		2016
+
+Enköping		N15008		2019
+Enköping		N15823		2016
+
+Eskilstuna		N15008		2019
+Eskilstuna		N15823		2016
+
+Eslöv		N15823		2016
+
+Essunga		N15008		2019
+Essunga		N15823		2016
+
+Fagersta		N15008		2019
+Fagersta		N15823		2016
+
+Falkenberg		N15008		2019
+Falkenberg		N15823		2016
+
+Falköping		N15008		2019
+Falköping		N15823		2016
+
+Falun		N15008		2019
+Falun		N15823		2016
+
+Filipstad		N15008		2019
+Filipstad		N15823		2016
+
+Finspång		N15008		2019
+Finspång		N15823		2016
+
+Flen		N15008		2019
+Flen		N15823		2016
+
+Forshaga		N15008		2019
+Forshaga		N15823		2016
+
+Färgelanda		N15008		2019
+Färgelanda		N15823		2016
+
+Gagnef		N15008		2019
+Gagnef		N15823		2016
+
+Gislaved		N15008		2019
+Gislaved		N15823		2016
+
+Gnesta		N15008		2019
+Gnesta		N15823		2016
+
+Gnosjö		N15008		2019
+Gnosjö		N15823		2016
+
+Gotland		N15008		2019
+Gotland		N15823		2016
+
+Grums		N15008		2019
+Grums		N15823		2016
+
+Grästorp		N15008		2019
+Grästorp		N15823		2016
+
+Gullspång		N15823		2016
+
+Gällivare		N15008		2019
+Gällivare		N15823		2016
+
+Gävle		N15008		2019
+Gävle		N15823		2016
+
+Göteborg		N15008		2019
+Göteborg		N15823		2016
+
+Götene		N15008		2019
+Götene		N15823		2016
+
+Habo		N15008		2019
+Habo		N15823		2016
+
+Hagfors		N15008		2019
+Hagfors		N15823		2016
+
+Hallsberg		N15008		2019
+Hallsberg		N15823		2016
+
+Hallstahammar		N15823		2016
+
+Halmstad		N15008		2019
+Halmstad		N15823		2016
+
+Hammarö		N15823		2016
+
+Haninge		N15008		2019
+Haninge		N15823		2016
+
+Haparanda		N15008		2019
+Haparanda		N15823		2016
+
+Heby		N15008		2019
+Heby		N15823		2016
+
+Hedemora		N15823		2016
+
+Helsingborg		N15008		2019
+Helsingborg		N15823		2016
+
+Herrljunga		N15823		2016
+
+Hjo		N15008		2019
+Hjo		N15823		2016
+
+Hofors		N15008		2019
+Hofors		N15823		2016
+
+Huddinge		N15008		2019
+Huddinge		N15823		2016
+
+Hudiksvall		N15008		2019
+Hudiksvall		N15823		2016
+
+Hultsfred		N15008		2019
+Hultsfred		N15823		2016
+
+Hylte		N15008		2019
+Hylte		N15823		2016
+
+Håbo		N15008		2019
+Håbo		N15823		2016
+
+Hällefors		N15823		2016
+
+Härjedalen		N15008		2019
+Härjedalen		N15823		2016
+
+Härnösand		N15008		2019
+Härnösand		N15823		2016
+
+Härryda		N15823		2016
+
+Hässleholm		N15008		2019
+Hässleholm		N15823		2016
+
+Höganäs		N15008		2019
+Höganäs		N15823		2016
+
+Högsby		N15008		2019
+Högsby		N15823		2016
+
+Hörby		N15008		2019
+Hörby		N15823		2016
+
+Höör		N15008		2019
+Höör		N15823		2016
+
+Jokkmokk		N15008		2019
+Jokkmokk		N15823		2016
+
+Järfälla		N15008		2019
+Järfälla		N15823		2016
+
+Jönköping		N15008		2019
+Jönköping		N15823		2016
+
+Kalix		N15008		2019
+Kalix		N15823		2016
+
+Kalmar		N15008		2019
+Kalmar		N15823		2016
+
+Karlsborg		N15008		2019
+Karlsborg		N15823		2016
+
+Karlshamn		N15008		2019
+Karlshamn		N15823		2016
+
+Karlskoga		N15008		2019
+Karlskoga		N15823		2016
+
+Karlskrona		N15823		2016
+
+Karlstad		N15008		2019
+Karlstad		N15823		2016
+
+Katrineholm		N15008		2019
+Katrineholm		N15823		2016
+
+Kil		N15008		2019
+Kil		N15823		2016
+
+Kinda		N15008		2019
+Kinda		N15823		2016
+
+Kiruna		N15008		2019
+Kiruna		N15823		2016
+
+Klippan		N15008		2019
+Klippan		N15823		2016
+
+Knivsta		N15008		2019
+Knivsta		N15823		2016
+
+Kramfors		N15008		2019
+Kramfors		N15823		2016
+
+Kristianstad		N15008		2019
+Kristianstad		N15823		2016
+
+Kristinehamn		N15008		2019
+Kristinehamn		N15823		2016
+
+Krokom		N15008		2019
+Krokom		N15823		2016
+
+Kumla		N15008		2019
+Kumla		N15823		2016
+
+Kungsbacka		N15008		2019
+Kungsbacka		N15823		2016
+
+Kungsör		N15008		2019
+Kungsör		N15823		2016
+
+Kungälv		N15008		2019
+Kungälv		N15823		2016
+
+Kävlinge		N15823		2016
+
+Köping		N15823		2016
+
+Laholm		N15008		2019
+Laholm		N15823		2016
+
+Landskrona		N15008		2019
+Landskrona		N15823		2016
+
+Laxå		N15008		2019
+Laxå		N15823		2016
+
+Lekeberg		N15008		2019
+Lekeberg		N15823		2016
+
+Leksand		N15008		2019
+Leksand		N15823		2016
+
+Lerum		N15008		2019
+Lerum		N15823		2016
+
+Lessebo		N15823		2016
+
+Lidingö		N15008		2019
+Lidingö		N15823		2016
+
+Lidköping		N15008		2019
+Lidköping		N15823		2016
+
+Lilla Edet		N15008		2019
+Lilla Edet		N15823		2016
+
+Lindesberg		N15008		2019
+Lindesberg		N15823		2016
+
+Linköping		N15008		2019
+Linköping		N15823		2016
+
+Ljungby		N15823		2016
+
+Ljusdal		N15008		2019
+Ljusdal		N15823		2016
+
+Ljusnarsberg		N15823		2016
+
+Lomma		N15008		2019
+Lomma		N15823		2016
+
+Ludvika		N15008		2019
+Ludvika		N15823		2016
+
+Luleå		N15008		2019
+Luleå		N15823		2016
+
+Lund		N15008		2019
+Lund		N15823		2016
+
+Lycksele		N15008		2019
+Lycksele		N15823		2016
+
+Lysekil		N15008		2019
+Lysekil		N15823		2016
+
+Malmö		N15008		2019
+Malmö		N15823		2016
+
+Malung-Sälen		N15823		2016
+
+Malå		N15008		2019
+Malå		N15823		2016
+
+Mariestad		N15008		2019
+Mariestad		N15823		2016
+
+Mark		N15008		2019
+Mark		N15823		2016
+
+Markaryd		N15008		2019
+Markaryd		N15823		2016
+
+Mellerud		N15008		2019
+Mellerud		N15823		2016
+
+Mjölby		N15008		2019
+Mjölby		N15823		2016
+
+Mora		N15008		2019
+Mora		N15823		2016
+
+Motala		N15008		2019
+Motala		N15823		2016
+
+Mullsjö		N15008		2019
+Mullsjö		N15823		2016
+
+Munkedal		N15008		2019
+Munkedal		N15823		2016
+
+Munkfors		N15008		2019
+Munkfors		N15823		2016
+
+Mölndal		N15008		2019
+Mölndal		N15823		2016
+
+Mönsterås		N15008		2019
+Mönsterås		N15823		2016
+
+Mörbylånga		N15008		2019
+Mörbylånga		N15823		2016
+
+Nacka		N15008		2019
+Nacka		N15823		2016
+
+Nora		N15008		2019
+Nora		N15823		2016
+
+Norberg		N15008		2019
+Norberg		N15823		2016
+
+Nordanstig		N15008		2019
+Nordanstig		N15823		2016
+
+Nordmaling		N15008		2019
+Nordmaling		N15823		2016
+
+Norrköping		N15008		2019
+Norrköping		N15823		2016
+
+Norrtälje		N15008		2019
+Norrtälje		N15823		2016
+
+Norsjö		N15008		2019
+Norsjö		N15823		2016
+
+Nybro		N15823		2016
+
+Nykvarn		N15008		2019
+Nykvarn		N15823		2016
+
+Nyköping		N15008		2019
+Nyköping		N15823		2016
+
+Nynäshamn		N15008		2019
+Nynäshamn		N15823		2016
+
+Nässjö		N15008		2019
+Nässjö		N15823		2016
+
+Ockelbo		N15008		2019
+Ockelbo		N15823		2016
+
+Olofström		N15008		2019
+Olofström		N15823		2016
+
+Orsa		N15823		2016
+
+Orust		N15008		2019
+Orust		N15823		2016
+
+Osby		N15008		2019
+Osby		N15823		2016
+
+Oskarshamn		N15008		2019
+Oskarshamn		N15823		2016
+
+Ovanåker		N15008		2019
+Ovanåker		N15823		2016
+
+Oxelösund		N15008		2019
+Oxelösund		N15823		2016
+
+Pajala		N15008		2019
+Pajala		N15823		2016
+
+Partille		N15008		2019
+Partille		N15823		2016
+
+Perstorp		N15008		2019
+Perstorp		N15823		2016
+
+Piteå		N15008		2019
+Piteå		N15823		2016
+
+Ragunda		N15823		2016
+
+Robertsfors		N15008		2019
+Robertsfors		N15823		2016
+
+Ronneby		N15008		2019
+Ronneby		N15823		2016
+
+Rättvik		N15008		2019
+Rättvik		N15823		2016
+
+Sala		N15008		2019
+Sala		N15823		2016
+
+Salem		N15008		2019
+Salem		N15823		2016
+
+Sandviken		N15008		2019
+Sandviken		N15823		2016
+
+Sigtuna		N15008		2019
+Sigtuna		N15823		2016
+
+Simrishamn		N15008		2019
+Simrishamn		N15823		2016
+
+Sjöbo		N15008		2019
+Sjöbo		N15823		2016
+
+Skara		N15823		2016
+
+Skellefteå		N15008		2019
+Skellefteå		N15823		2016
+
+Skinnskatteberg		N15008		2019
+Skinnskatteberg		N15823		2016
+
+Skurup		N15008		2019
+Skurup		N15823		2016
+
+Skövde		N15008		2019
+Skövde		N15823		2016
+
+Smedjebacken		N15008		2019
+Smedjebacken		N15823		2016
+
+Sollefteå		N15008		2019
+Sollefteå		N15823		2016
+
+Sollentuna		N15008		2019
+Sollentuna		N15823		2016
+
+Solna		N15008		2019
+Solna		N15823		2016
+
+Sorsele		N15008		2019
+Sorsele		N15823		2016
+
+Sotenäs		N15008		2019
+Sotenäs		N15823		2016
+
+Staffanstorp		N15008		2019
+Staffanstorp		N15823		2016
+
+Stenungsund		N15823		2016
+
+Stockholm		N15008		2019
+Stockholm		N15823		2016
+
+Storfors		N15008		2019
+Storfors		N15823		2016
+
+Storuman		N15008		2019
+Storuman		N15823		2016
+
+Strängnäs		N15008		2019
+Strängnäs		N15823		2016
+
+Strömstad		N15008		2019
+Strömstad		N15823		2016
+
+Strömsund		N15008		2019
+Strömsund		N15823		2016
+
+Sundbyberg		N15008		2019
+Sundbyberg		N15823		2016
+
+Sundsvall		N15008		2019
+Sundsvall		N15823		2016
+
+Sunne		N15008		2019
+Sunne		N15823		2016
+
+Surahammar		N15008		2019
+Surahammar		N15823		2016
+
+Svalöv		N15008		2019
+Svalöv		N15823		2016
+
+Svedala		N15008		2019
+Svedala		N15823		2016
+
+Svenljunga		N15008		2019
+Svenljunga		N15823		2016
+
+Säffle		N15008		2019
+Säffle		N15823		2016
+
+Säter		N15008		2019
+Säter		N15823		2016
+
+Sävsjö		N15008		2019
+Sävsjö		N15823		2016
+
+Söderhamn		N15008		2019
+Söderhamn		N15823		2016
+
+Söderköping		N15008		2019
+Söderköping		N15823		2016
+
+Södertälje		N15823		2016
+
+Sölvesborg		N15008		2019
+Sölvesborg		N15823		2016
+
+Tanum		N15008		2019
+Tanum		N15823		2016
+
+Tibro		N15008		2019
+Tibro		N15823		2016
+
+Tidaholm		N15008		2019
+Tidaholm		N15823		2016
+
+Tierp		N15008		2019
+Tierp		N15823		2016
+
+Timrå		N15008		2019
+Timrå		N15823		2016
+
+Tingsryd		N15008		2019
+Tingsryd		N15823		2016
+
+Tjörn		N15008		2019
+Tjörn		N15823		2016
+
+Tomelilla		N15008		2019
+Tomelilla		N15823		2016
+
+Torsby		N15823		2016
+
+Torsås		N15008		2019
+Torsås		N15823		2016
+
+Tranemo		N15008		2019
+Tranemo		N15823		2016
+
+Tranås		N15008		2019
+Tranås		N15823		2016
+
+Trelleborg		N15823		2016
+
+Trollhättan		N15008		2019
+Trollhättan		N15823		2016
+
+Trosa		N15008		2019
+Trosa		N15823		2016
+
+Tyresö		N15008		2019
+Tyresö		N15823		2016
+
+Täby		N15008		2019
+Täby		N15823		2016
+
+Töreboda		N15823		2016
+
+Uddevalla		N15008		2019
+Uddevalla		N15823		2016
+
+Ulricehamn		N15008		2019
+Ulricehamn		N15823		2016
+
+Umeå		N15008		2019
+Umeå		N15823		2016
+
+Upplands Väsby		N15008		2019
+Upplands Väsby		N15823		2016
+
+Upplands-Bro		N15008		2019
+Upplands-Bro		N15823		2016
+
+Uppsala		N15008		2019
+Uppsala		N15823		2016
+
+Uppvidinge		N15008		2019
+Uppvidinge		N15823		2016
+
+Vadstena		N15008		2019
+Vadstena		N15823		2016
+
+Vaggeryd		N15008		2019
+Vaggeryd		N15823		2016
+
+Valdemarsvik		N15008		2019
+Valdemarsvik		N15823		2016
+
+Vallentuna		N15008		2019
+Vallentuna		N15823		2016
+
+Vansbro		N15008		2019
+Vansbro		N15823		2016
+
+Vara		N15008		2019
+Vara		N15823		2016
+
+Varberg		N15008		2019
+Varberg		N15823		2016
+
+Vaxholm		N15008		2019
+Vaxholm		N15823		2016
+
+Vellinge		N15008		2019
+Vellinge		N15823		2016
+
+Vetlanda		N15008		2019
+Vetlanda		N15823		2016
+
+Vilhelmina		N15008		2019
+Vilhelmina		N15823		2016
+
+Vimmerby		N15008		2019
+Vimmerby		N15823		2016
+
+Vindeln		N15008		2019
+Vindeln		N15823		2016
+
+Vingåker		N15008		2019
+Vingåker		N15823		2016
+
+Vårgårda		N15008		2019
+Vårgårda		N15823		2016
+
+Vänersborg		N15008		2019
+Vänersborg		N15823		2016
+
+Vännäs		N15823		2016
+
+Värmdö		N15008		2019
+Värmdö		N15823		2016
+
+Värnamo		N15008		2019
+Värnamo		N15823		2016
+
+Västervik		N15008		2019
+Västervik		N15823		2016
+
+Västerås		N15008		2019
+Västerås		N15823		2016
+
+Växjö		N15008		2019
+Växjö		N15823		2016
+
+Ydre		N15008		2019
+Ydre		N15823		2016
+
+Ystad		N15008		2019
+Ystad		N15823		2016
+
+Åmål		N15008		2019
+Åmål		N15823		2016
+
+Ånge		N15008		2019
+Ånge		N15823		2016
+
+Åre		N15008		2019
+Åre		N15823		2016
+
+Årjäng		N15008		2019
+Årjäng		N15823		2016
+
+Åsele		N15008		2019
+Åsele		N15823		2016
+
+Åstorp		N15823		2016
+
+Åtvidaberg		N15008		2019
+Åtvidaberg		N15823		2016
+
+Älmhult		N15008		2019
+Älmhult		N15823		2016
+
+Älvdalen		N15008		2019
+Älvdalen		N15823		2016
+
+Älvkarleby		N15008		2019
+Älvkarleby		N15823		2016
+
+Älvsbyn		N15008		2019
+Älvsbyn		N15823		2016
+
+Ängelholm		N15008		2019
+Ängelholm		N15823		2016
+
+Öckerö		N15008		2019
+Öckerö		N15823		2016
+
+Ödeshög		N15008		2019
+Ödeshög		N15823		2016
+
+Örebro		N15008		2019
+Örebro		N15823		2016
+
+Örkelljunga		N15008		2019
+Örkelljunga		N15823		2016
+
+Örnsköldsvik		N15008		2019
+Örnsköldsvik		N15823		2016
+
+Östersund		N15008		2019
+Östersund		N15823		2016
+
+Österåker		N15008		2019
+Österåker		N15823		2016
+
+Östhammar		N15008		2019
+Östhammar		N15823		2016
+
+Östra Göinge		N15008		2019
+Östra Göinge		N15823		2016
+
+Överkalix		N15008		2019
+Överkalix		N15823		2016
+
+Övertorneå		N15008		2019
+Övertorneå		N15823		2016
+

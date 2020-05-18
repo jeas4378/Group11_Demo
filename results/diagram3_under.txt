@@ -1,0 +1,63 @@
+DIAGRAM 3
+
+
+
+
+
+
+Matematik, 2016, Burlöv
+Matematik, 2016, Essunga
+Matematik, 2016, Gnosjö
+Matematik, 2016, Grästorp
+Matematik, 2016, Hjo
+Matematik, 2016, Lessebo
+Matematik, 2016, Norsjö
+Matematik, 2016, Storuman
+Matematik, 2016, Surahammar
+Matematik, 2016, Vindeln
+Matematik, 2016, Ydre
+
+Matematik, 2017, Burlöv
+Matematik, 2017, Essunga
+Matematik, 2017, Gnosjö
+Matematik, 2017, Grästorp
+Matematik, 2017, Hjo
+Matematik, 2017, Lessebo
+Matematik, 2017, Norsjö
+Matematik, 2017, Storuman
+Matematik, 2017, Surahammar
+Matematik, 2017, Vindeln
+Matematik, 2017, Ydre
+
+Matematik, 2018, Burlöv
+Matematik, 2018, Essunga
+Matematik, 2018, Gnosjö
+Matematik, 2018, Grästorp
+Matematik, 2018, Hjo
+Matematik, 2018, Lessebo
+Matematik, 2018, Norsjö
+Matematik, 2018, Storuman
+Matematik, 2018, Surahammar
+Matematik, 2018, Vindeln
+Matematik, 2018, Ydre
+
+Matematik, 2019, Burlöv
+Matematik, 2019, Essunga
+Matematik, 2019, Gnosjö
+Matematik, 2019, Grästorp
+Matematik, 2019, Hjo
+Matematik, 2019, Lessebo
+Matematik, 2019, Norsjö
+Matematik, 2019, Storuman
+Matematik, 2019, Surahammar
+Matematik, 2019, Vindeln
+Matematik, 2019, Ydre
+
+Svenska, 2016, Ydre
+
+Svenska, 2017, Ydre
+
+Svenska, 2018, Ydre
+
+Svenska, 2019, Ydre
+

@@ -1,0 +1,2678 @@
+VILKA NYCKELTAL SAMT ÅR OCH KOMMUN SOM SAKNAR DATA OCH VAD SOM SAKNAS
+
+
+KOMMUN	|	NYCKELTAL	|	ÅR	|	VAD SAKNAS
+
+Ale		N15571		2016		K
+Ale		N15571		2017		K, M, T
+Ale		N15571		2018		K, M, T
+Ale		N15571		2019		K, M, T
+Ale		N15572		2018		K, M, T
+
+Alingsås		N15571		2017		K, M, T
+Alingsås		N15571		2018		K, M, T
+Alingsås		N15572		2018		K, M, T
+
+Alvesta		N15488		2019		K, M
+Alvesta		N15571		2017		K
+Alvesta		N15571		2018		K, M, T
+Alvesta		N15571		2019		K
+Alvesta		N15572		2018		K, M, T
+
+Aneby		N15436		2016		K, M
+Aneby		N15436		2019		M
+Aneby		N15485		2016		K
+Aneby		N15485		2018		M
+Aneby		N15485		2019		K, M
+Aneby		N15488		2016		K, M
+Aneby		N15488		2018		K, M
+Aneby		N15488		2019		K, M
+Aneby		N15569		2016		K
+Aneby		N15569		2018		K, M, T
+Aneby		N15570		2018		K, M, T
+Aneby		N15571		2017		K, M, T
+Aneby		N15571		2018		K, M, T
+Aneby		N15571		2019		K, M, T
+Aneby		N15572		2018		K, M, T
+Aneby		N15573		2016		K
+Aneby		U15461		2016		T
+
+Arboga		N15488		2018		M
+Arboga		N15488		2019		K, M
+Arboga		N15569		2017		K, M, T
+Arboga		N15570		2017		K, M, T
+Arboga		N15571		2016		K
+Arboga		N15571		2017		K, M, T
+Arboga		N15571		2018		K, M, T
+Arboga		N15571		2019		K, M, T
+Arboga		N15572		2018		K, M, T
+
+Arjeplog		N15419		2016		K
+Arjeplog		N15419		2017		K, M
+Arjeplog		N15419		2018		K
+Arjeplog		N15436		2016		K, M, T
+Arjeplog		N15436		2017		K, M
+Arjeplog		N15436		2018		K
+Arjeplog		N15436		2019		K, M, T
+Arjeplog		N15485		2016		K, T
+Arjeplog		N15485		2018		M, T
+Arjeplog		N15485		2019		M, T
+Arjeplog		N15488		2019		M
+Arjeplog		N15505		2017		K, M
+Arjeplog		N15569		2016		K
+Arjeplog		N15569		2017		K, M, T
+Arjeplog		N15569		2018		K, M, T
+Arjeplog		N15569		2019		K, M, T
+Arjeplog		N15570		2016		K
+Arjeplog		N15570		2017		K, M, T
+Arjeplog		N15570		2018		K
+Arjeplog		N15570		2019		K, M
+Arjeplog		N15571		2016		K, M, T
+Arjeplog		N15571		2017		K, M
+Arjeplog		N15571		2018		K, M, T
+Arjeplog		N15571		2019		K, M
+Arjeplog		N15572		2016		K
+Arjeplog		N15572		2017		K, M
+Arjeplog		N15572		2018		K, M, T
+Arjeplog		N15572		2019		K, M
+Arjeplog		N15573		2016		K, M
+Arjeplog		N15573		2017		K, M
+Arjeplog		N15573		2018		K
+Arjeplog		N15573		2019		K, M, T
+Arjeplog		N15574		2016		K, M
+Arjeplog		N15574		2017		K, M
+Arjeplog		N15574		2018		K, M
+Arjeplog		N15574		2019		K, M
+Arjeplog		U15461		2016		T
+
+Arvidsjaur		N15436		2018		K, M
+Arvidsjaur		N15436		2019		K, M, T
+Arvidsjaur		N15485		2016		K, M
+Arvidsjaur		N15485		2018		M
+Arvidsjaur		N15485		2019		K, M, T
+Arvidsjaur		N15488		2016		M
+Arvidsjaur		N15569		2019		K
+Arvidsjaur		N15571		2017		K, M, T
+Arvidsjaur		N15571		2018		K, M, T
+Arvidsjaur		N15571		2019		K, M, T
+Arvidsjaur		N15572		2018		K, M, T
+
+Arvika		N15488		2018		M
+Arvika		N15488		2019		K, M
+Arvika		N15571		2017		M
+Arvika		N15571		2018		K, M, T
+Arvika		N15571		2019		M
+Arvika		N15572		2018		K, M, T
+
+Askersund		N15488		2018		M
+Askersund		N15488		2019		K, M
+Askersund		N15569		2019		K
+Askersund		N15571		2018		K, M, T
+Askersund		N15571		2019		M
+Askersund		N15572		2018		K, M, T
+
+Avesta		N15488		2018		M
+Avesta		N15571		2018		K, M, T
+Avesta		N15572		2018		K, M, T
+
+Bengtsfors		N15488		2016		K
+Bengtsfors		N15488		2018		K, M
+Bengtsfors		N15488		2019		K, M
+Bengtsfors		N15571		2016		K, M, T
+Bengtsfors		N15571		2017		K, M, T
+Bengtsfors		N15571		2018		K, M, T
+Bengtsfors		N15571		2019		K
+Bengtsfors		N15572		2018		K, M, T
+Bengtsfors		N15573		2016		K
+Bengtsfors		N15573		2019		K
+
+Berg		N15436		2016		K
+Berg		N15488		2016		K
+Berg		N15488		2018		K, M
+Berg		N15488		2019		K, M, T
+Berg		N15569		2016		K
+Berg		N15569		2019		K, M, T
+Berg		N15570		2019		K, M, T
+Berg		N15571		2016		K
+Berg		N15571		2017		M
+Berg		N15571		2018		K, M, T
+Berg		N15571		2019		K, M, T
+Berg		N15572		2018		K, M, T
+Berg		N15573		2018		K
+
+Bjurholm		N15419		2016		K, M
+Bjurholm		N15419		2018		K
+Bjurholm		N15419		2019		K
+Bjurholm		N15436		2016		K, M
+Bjurholm		N15436		2017		M, T
+Bjurholm		N15436		2018		K, M
+Bjurholm		N15436		2019		K
+Bjurholm		N15485		2016		K, M, T
+Bjurholm		N15485		2017		K
+Bjurholm		N15485		2018		K, M, T
+Bjurholm		N15485		2019		K, M, T
+Bjurholm		N15488		2016		K, M, T
+Bjurholm		N15488		2017		K
+Bjurholm		N15488		2018		M, T
+Bjurholm		N15488		2019		K, M
+Bjurholm		N15505		2016		K, M
+Bjurholm		N15569		2016		K, M
+Bjurholm		N15569		2017		K, M, T
+Bjurholm		N15569		2018		K, M
+Bjurholm		N15569		2019		K
+Bjurholm		N15570		2016		K, M
+Bjurholm		N15570		2017		K, M
+Bjurholm		N15570		2018		K, M
+Bjurholm		N15570		2019		K
+Bjurholm		N15571		2016		K, M
+Bjurholm		N15571		2017		K, M
+Bjurholm		N15571		2018		K, M, T
+Bjurholm		N15571		2019		K, M, T
+Bjurholm		N15572		2016		K, M
+Bjurholm		N15572		2017		K, M
+Bjurholm		N15572		2018		K, M, T
+Bjurholm		N15572		2019		K
+Bjurholm		N15573		2016		K, M
+Bjurholm		N15573		2017		K, M, T
+Bjurholm		N15573		2018		K, M, T
+Bjurholm		N15573		2019		K
+Bjurholm		N15574		2016		K, M
+Bjurholm		N15574		2017		K, M, T
+Bjurholm		N15574		2018		K, M, T
+Bjurholm		N15574		2019		K, M, T
+Bjurholm		U15461		2017		T
+
+Bjuv		N15488		2018		M
+Bjuv		N15571		2016		K
+Bjuv		N15571		2017		K, M, T
+Bjuv		N15571		2018		K, M, T
+Bjuv		N15571		2019		K, M, T
+Bjuv		N15572		2018		K, M, T
+
+Boden		N15488		2019		K, M
+Boden		N15571		2016		K
+Boden		N15571		2017		K
+Boden		N15571		2018		K, M, T
+Boden		N15571		2019		K, M, T
+Boden		N15572		2018		K, M, T
+
+Bollebygd		N15436		2016		K
+Bollebygd		N15485		2018		M
+Bollebygd		N15569		2019		M
+Bollebygd		N15571		2016		K, M, T
+Bollebygd		N15571		2017		K
+Bollebygd		N15571		2018		K, M, T
+Bollebygd		N15571		2019		K, M, T
+Bollebygd		N15572		2018		K, M, T
+
+Bollnäs		N15488		2019		K, M
+Bollnäs		N15571		2016		K
+Bollnäs		N15571		2017		K, M, T
+Bollnäs		N15571		2018		K, M, T
+Bollnäs		N15571		2019		K
+Bollnäs		N15572		2018		K, M, T
+
+Borgholm		N15436		2018		K
+Borgholm		N15485		2018		M
+Borgholm		N15488		2016		K
+Borgholm		N15488		2019		K, M
+Borgholm		N15571		2017		K, M, T
+Borgholm		N15571		2018		K, M, T
+Borgholm		N15571		2019		K, M, T
+Borgholm		N15572		2018		K, M, T
+Borgholm		N15573		2019		K
+
+Borlänge		N15571		2017		K
+Borlänge		N15571		2018		K, M, T
+Borlänge		N15571		2019		M
+Borlänge		N15572		2018		K, M, T
+
+Borås		N15571		2018		K, M, T
+Borås		N15572		2018		K, M, T
+
+Botkyrka		N15571		2018		K, M, T
+Botkyrka		N15572		2018		K, M, T
+
+Boxholm		N15436		2016		K, M
+Boxholm		N15436		2019		M
+Boxholm		N15485		2016		K, M
+Boxholm		N15488		2016		K
+Boxholm		N15488		2018		M
+Boxholm		N15488		2019		K, M, T
+Boxholm		N15569		2016		K
+Boxholm		N15569		2019		K, M, T
+Boxholm		N15570		2019		K, M, T
+Boxholm		N15571		2017		M
+Boxholm		N15571		2018		K, M, T
+Boxholm		N15571		2019		K, M, T
+Boxholm		N15572		2018		K, M, T
+Boxholm		N15572		2019		M
+Boxholm		N15573		2017		K
+Boxholm		N15573		2019		M
+Boxholm		N15574		2018		M
+Boxholm		N15574		2019		M
+
+Bromölla		N15488		2018		K
+Bromölla		N15569		2017		K
+Bromölla		N15571		2016		K
+Bromölla		N15571		2017		M
+Bromölla		N15571		2018		K, M, T
+Bromölla		N15571		2019		K, M, T
+Bromölla		N15572		2018		K, M, T
+
+Bräcke		N15488		2018		K, M
+Bräcke		N15488		2019		K, M
+Bräcke		N15571		2017		K, M, T
+Bräcke		N15571		2018		K, M, T
+Bräcke		N15571		2019		K, M, T
+Bräcke		N15572		2018		K, M, T
+Bräcke		N15574		2016		K
+Bräcke		N15574		2019		M
+
+Burlöv		N15488		2018		M
+Burlöv		N15488		2019		K, M
+Burlöv		N15571		2016		K, M, T
+Burlöv		N15571		2017		K, M, T
+Burlöv		N15571		2018		K, M, T
+Burlöv		N15571		2019		K, M, T
+Burlöv		N15572		2018		K, M, T
+
+Båstad		N15485		2018		M
+Båstad		N15571		2017		K
+Båstad		N15571		2018		K, M, T
+Båstad		N15571		2019		K, M, T
+Båstad		N15572		2018		K, M, T
+
+Dals-Ed		N15436		2016		M
+Dals-Ed		N15436		2018		M
+Dals-Ed		N15436		2019		K, M
+Dals-Ed		N15485		2016		K, M
+Dals-Ed		N15485		2019		K, M
+Dals-Ed		N15488		2016		K, M
+Dals-Ed		N15488		2018		K, M
+Dals-Ed		N15488		2019		K, M, T
+Dals-Ed		N15569		2019		K
+Dals-Ed		N15571		2017		K
+Dals-Ed		N15571		2018		K, M, T
+Dals-Ed		N15571		2019		M
+Dals-Ed		N15572		2018		K, M, T
+Dals-Ed		N15573		2017		K
+Dals-Ed		N15573		2018		K, M, T
+Dals-Ed		N15573		2019		K
+Dals-Ed		N15574		2018		K, M, T
+Dals-Ed		U15461		2016		T
+
+Danderyd		N15485		2019		K, M
+Danderyd		N15488		2019		K, M
+Danderyd		N15569		2018		K, M, T
+Danderyd		N15570		2018		K, M, T
+Danderyd		N15571		2018		K, M, T
+Danderyd		N15572		2018		K, M, T
+Danderyd		N15573		2018		K, M, T
+Danderyd		N15574		2018		K, M, T
+Danderyd		U15461		2016		T
+
+Degerfors		N15569		2016		M
+Degerfors		N15569		2017		K, M, T
+Degerfors		N15570		2017		K, M, T
+Degerfors		N15571		2017		K
+Degerfors		N15571		2018		K, M, T
+Degerfors		N15571		2019		K
+Degerfors		N15572		2018		K, M, T
+
+Dorotea		N15419		2016		K, M
+Dorotea		N15419		2018		M
+Dorotea		N15419		2019		K, M, T
+Dorotea		N15436		2016		K, M
+Dorotea		N15436		2017		K, M, T
+Dorotea		N15436		2018		K, M
+Dorotea		N15436		2019		K, M, T
+Dorotea		N15485		2016		K, M, T
+Dorotea		N15485		2017		M
+Dorotea		N15485		2018		K, T
+Dorotea		N15485		2019		K, M, T
+Dorotea		N15488		2016		K
+Dorotea		N15488		2017		K, M
+Dorotea		N15488		2018		K, M
+Dorotea		N15488		2019		K, M, T
+Dorotea		N15505		2016		K, M
+Dorotea		N15505		2019		K, M, T
+Dorotea		N15569		2016		K, M, T
+Dorotea		N15569		2017		K, M
+Dorotea		N15569		2018		K, M
+Dorotea		N15569		2019		K, M, T
+Dorotea		N15570		2016		K, M
+Dorotea		N15570		2017		M
+Dorotea		N15570		2018		K, M
+Dorotea		N15570		2019		K, M, T
+Dorotea		N15571		2016		M
+Dorotea		N15571		2017		K, M, T
+Dorotea		N15571		2018		K, M, T
+Dorotea		N15571		2019		K, M, T
+Dorotea		N15572		2016		M
+Dorotea		N15572		2017		M
+Dorotea		N15572		2018		K, M, T
+Dorotea		N15572		2019		K, M, T
+Dorotea		N15573		2016		M
+Dorotea		N15573		2017		M
+Dorotea		N15573		2018		K, M
+Dorotea		N15573		2019		K, M, T
+Dorotea		N15574		2016		M
+Dorotea		N15574		2017		M
+Dorotea		N15574		2018		K, M
+Dorotea		N15574		2019		K, M, T
+Dorotea		N15823		2019		T
+Dorotea		U15461		2017		T
+Dorotea		U15461		2019		T
+
+Eda		N15436		2016		K
+Eda		N15436		2017		M
+Eda		N15436		2019		K
+Eda		N15485		2016		M
+Eda		N15488		2016		K, M
+Eda		N15488		2018		K, M
+Eda		N15488		2019		K, M
+Eda		N15569		2017		K
+Eda		N15569		2018		K
+Eda		N15569		2019		K
+Eda		N15571		2017		K
+Eda		N15571		2018		K, M, T
+Eda		N15571		2019		K, M, T
+Eda		N15572		2018		K, M, T
+
+Ekerö		N15488		2018		M
+Ekerö		N15488		2019		K, M
+Ekerö		N15571		2017		K, M, T
+Ekerö		N15571		2018		K, M, T
+Ekerö		N15571		2019		K
+Ekerö		N15572		2018		K, M, T
+
+Eksjö		N15488		2018		M
+Eksjö		N15488		2019		K, M
+Eksjö		N15569		2017		K
+Eksjö		N15571		2017		K
+Eksjö		N15571		2018		K, M, T
+Eksjö		N15571		2019		K
+Eksjö		N15572		2018		K, M, T
+
+Emmaboda		N15485		2018		K, M
+Emmaboda		N15488		2016		M
+Emmaboda		N15488		2019		K, M
+Emmaboda		N15569		2017		K
+Emmaboda		N15571		2016		M
+Emmaboda		N15571		2017		K, M, T
+Emmaboda		N15571		2018		K, M, T
+Emmaboda		N15571		2019		K, M, T
+Emmaboda		N15572		2018		K, M, T
+Emmaboda		N15574		2016		M
+
+Enköping		N15488		2018		M
+Enköping		N15571		2017		K
+Enköping		N15571		2018		K, M, T
+Enköping		N15571		2019		K, M, T
+Enköping		N15572		2018		K, M, T
+
+Eskilstuna		N15571		2018		K, M, T
+Eskilstuna		N15571		2019		K
+Eskilstuna		N15572		2018		K, M, T
+
+Eslöv		N15488		2018		M
+Eslöv		N15571		2018		K, M, T
+Eslöv		N15571		2019		K
+Eslöv		N15572		2018		K, M, T
+
+Essunga		N15436		2016		K
+Essunga		N15436		2017		K
+Essunga		N15436		2018		K
+Essunga		N15485		2018		K, M
+Essunga		N15485		2019		K, M, T
+Essunga		N15488		2016		K, M
+Essunga		N15488		2018		M
+Essunga		N15488		2019		M, T
+Essunga		N15569		2018		K, M, T
+Essunga		N15569		2019		K
+Essunga		N15570		2018		K, M, T
+Essunga		N15571		2016		K, M, T
+Essunga		N15571		2017		K, M, T
+Essunga		N15571		2018		K, M, T
+Essunga		N15571		2019		K, M, T
+Essunga		N15572		2018		K, M, T
+Essunga		N15573		2016		M
+Essunga		N15573		2017		K
+Essunga		N15574		2016		M
+Essunga		N15574		2017		M
+Essunga		N15574		2019		K
+
+Fagersta		N15488		2019		K, M
+Fagersta		N15571		2017		K
+Fagersta		N15571		2018		K, M, T
+Fagersta		N15571		2019		K
+Fagersta		N15572		2018		K, M, T
+Fagersta		N15574		2017		M
+
+Falkenberg		N15571		2017		K, M, T
+Falkenberg		N15571		2018		K, M, T
+Falkenberg		N15572		2018		K, M, T
+
+Falköping		N15571		2018		K, M, T
+Falköping		N15572		2018		K, M, T
+
+Falun		N15571		2018		K, M, T
+Falun		N15572		2018		K, M, T
+
+Filipstad		N15488		2018		K, M
+Filipstad		N15488		2019		K, M
+Filipstad		N15571		2016		K
+Filipstad		N15571		2018		K, M, T
+Filipstad		N15571		2019		K, M, T
+Filipstad		N15572		2018		K, M, T
+Filipstad		N15573		2017		K
+Filipstad		N15573		2018		K
+
+Finspång		N15488		2018		M
+Finspång		N15488		2019		K, M
+Finspång		N15571		2018		K, M, T
+Finspång		N15572		2018		K, M, T
+
+Flen		N15488		2016		K, M
+Flen		N15488		2018		K, M
+Flen		N15488		2019		K, M
+Flen		N15569		2018		K
+Flen		N15571		2017		K
+Flen		N15571		2018		K, M, T
+Flen		N15571		2019		K, M, T
+Flen		N15572		2018		K, M, T
+
+Forshaga		N15485		2018		M
+Forshaga		N15488		2018		M
+Forshaga		N15488		2019		K, M
+Forshaga		N15571		2017		K
+Forshaga		N15571		2018		K, M, T
+Forshaga		N15571		2019		K
+Forshaga		N15572		2018		K, M, T
+
+Färgelanda		N15436		2016		K
+Färgelanda		N15485		2016		K
+Färgelanda		N15488		2016		M
+Färgelanda		N15488		2018		K, M
+Färgelanda		N15488		2019		K, M
+Färgelanda		N15569		2017		K, M, T
+Färgelanda		N15570		2017		K, M, T
+Färgelanda		N15571		2016		K, M, T
+Färgelanda		N15571		2017		K
+Färgelanda		N15571		2018		K, M, T
+Färgelanda		N15571		2019		K, M, T
+Färgelanda		N15572		2018		K, M, T
+Färgelanda		N15573		2017		K
+Färgelanda		N15574		2017		M
+
+Gagnef		N15485		2018		M
+Gagnef		N15485		2019		K, M
+Gagnef		N15488		2019		M, T
+Gagnef		N15569		2017		K
+Gagnef		N15570		2017		K
+Gagnef		N15571		2017		K, M, T
+Gagnef		N15571		2018		K, M, T
+Gagnef		N15571		2019		K
+Gagnef		N15572		2018		K, M, T
+
+Gislaved		N15571		2018		K, M, T
+Gislaved		N15572		2018		K, M, T
+
+Gnesta		N15485		2018		M
+Gnesta		N15488		2018		M
+Gnesta		N15488		2019		K, M
+Gnesta		N15569		2016		K
+Gnesta		N15571		2016		K, M, T
+Gnesta		N15571		2017		K, M, T
+Gnesta		N15571		2018		K, M, T
+Gnesta		N15571		2019		K
+Gnesta		N15572		2018		K, M, T
+Gnesta		N15574		2016		M
+
+Gnosjö		N15571		2016		K, M, T
+Gnosjö		N15571		2017		K, M, T
+Gnosjö		N15571		2018		K, M, T
+Gnosjö		N15571		2019		K, M, T
+Gnosjö		N15572		2018		K, M, T
+Gnosjö		N15574		2019		K, M, T
+
+Gotland		N15571		2018		K, M, T
+Gotland		N15572		2018		K, M, T
+
+Grums		N15485		2018		K, M
+Grums		N15488		2016		K, M
+Grums		N15488		2018		K, M
+Grums		N15569		2016		K
+Grums		N15571		2016		K
+Grums		N15571		2017		K, M, T
+Grums		N15571		2018		K, M, T
+Grums		N15571		2019		K, M, T
+Grums		N15572		2018		K, M, T
+Grums		N15574		2019		M
+
+Grästorp		N15436		2016		K
+Grästorp		N15436		2018		K
+Grästorp		N15436		2019		K, M, T
+Grästorp		N15485		2016		K, M
+Grästorp		N15485		2019		K, M
+Grästorp		N15488		2016		K, M
+Grästorp		N15488		2018		K, M
+Grästorp		N15488		2019		K, M
+Grästorp		N15569		2017		K, M, T
+Grästorp		N15569		2019		K
+Grästorp		N15570		2017		K, M, T
+Grästorp		N15571		2016		K, M, T
+Grästorp		N15571		2017		K, M, T
+Grästorp		N15571		2018		K, M, T
+Grästorp		N15571		2019		K, M, T
+Grästorp		N15572		2018		K, M, T
+Grästorp		N15573		2017		K, M, T
+Grästorp		N15573		2019		K
+Grästorp		N15574		2016		M
+Grästorp		U15461		2016		T
+
+Gullspång		N15485		2018		K, M
+Gullspång		N15485		2019		K, M
+Gullspång		N15488		2016		K, M
+Gullspång		N15488		2018		M, T
+Gullspång		N15488		2019		K, M, T
+Gullspång		N15569		2016		K
+Gullspång		N15569		2017		K, M, T
+Gullspång		N15569		2019		M
+Gullspång		N15570		2016		K
+Gullspång		N15570		2017		K, M, T
+Gullspång		N15571		2016		K
+Gullspång		N15571		2017		M
+Gullspång		N15571		2018		K, M, T
+Gullspång		N15571		2019		K, M, T
+Gullspång		N15572		2018		K, M, T
+Gullspång		N15574		2018		M
+
+Gällivare		N15485		2018		M
+Gällivare		N15485		2019		K, M
+Gällivare		N15571		2016		K, M, T
+Gällivare		N15571		2017		M
+Gällivare		N15571		2018		K, M, T
+Gällivare		N15572		2018		K, M, T
+
+Gävle		N15571		2017		K, M, T
+Gävle		N15571		2018		K, M, T
+Gävle		N15572		2018		K, M, T
+
+Göteborg		N15571		2018		K, M, T
+Göteborg		N15572		2018		K, M, T
+
+Götene		N15485		2019		K, M
+Götene		N15571		2017		M
+Götene		N15571		2018		K, M, T
+Götene		N15571		2019		K, M, T
+Götene		N15572		2018		K, M, T
+
+Habo		N15485		2018		M
+Habo		N15488		2018		M
+Habo		N15571		2016		M
+Habo		N15571		2017		K, M, T
+Habo		N15571		2018		K, M, T
+Habo		N15571		2019		K, M, T
+Habo		N15572		2018		K, M, T
+
+Hagfors		N15485		2019		K, M
+Hagfors		N15488		2016		K
+Hagfors		N15571		2016		K
+Hagfors		N15571		2017		K
+Hagfors		N15571		2018		K, M, T
+Hagfors		N15571		2019		K, M, T
+Hagfors		N15572		2018		K, M, T
+
+Hallsberg		N15488		2018		M
+Hallsberg		N15488		2019		K, M
+Hallsberg		N15571		2017		M
+Hallsberg		N15571		2018		K, M, T
+Hallsberg		N15571		2019		M
+Hallsberg		N15572		2018		K, M, T
+
+Hallstahammar		N15488		2018		M
+Hallstahammar		N15488		2019		K, M
+Hallstahammar		N15569		2018		K
+Hallstahammar		N15571		2016		K
+Hallstahammar		N15571		2017		K, M, T
+Hallstahammar		N15571		2018		K, M, T
+Hallstahammar		N15571		2019		K
+Hallstahammar		N15572		2018		K, M, T
+
+Halmstad		N15571		2018		K, M, T
+Halmstad		N15572		2018		K, M, T
+
+Hammarö		N15436		2019		K
+Hammarö		N15485		2019		M, T
+Hammarö		N15488		2018		M
+Hammarö		N15488		2019		K, M
+Hammarö		N15571		2018		K, M, T
+Hammarö		N15571		2019		M
+Hammarö		N15572		2018		K, M, T
+Hammarö		N15573		2018		K
+Hammarö		N15574		2018		M
+
+Haninge		N15571		2018		K, M, T
+Haninge		N15572		2018		K, M, T
+
+Haparanda		N15485		2018		M
+Haparanda		N15488		2018		M
+Haparanda		N15488		2019		K, M
+Haparanda		N15569		2017		K, M, T
+Haparanda		N15570		2017		K, M, T
+Haparanda		N15571		2017		M
+Haparanda		N15571		2018		K, M, T
+Haparanda		N15571		2019		M
+Haparanda		N15572		2018		K, M, T
+
+Heby		N15485		2019		K, M
+Heby		N15488		2018		M
+Heby		N15571		2016		M
+Heby		N15571		2017		K
+Heby		N15571		2018		K, M, T
+Heby		N15571		2019		K, M, T
+Heby		N15572		2018		K, M, T
+Heby		N15573		2018		K
+
+Hedemora		N15488		2018		M
+Hedemora		N15488		2019		K, M
+Hedemora		N15569		2018		K
+Hedemora		N15571		2017		K, M, T
+Hedemora		N15571		2018		K, M, T
+Hedemora		N15571		2019		K, M, T
+Hedemora		N15572		2018		K, M, T
+Hedemora		N15573		2016		K
+
+Helsingborg		N15571		2018		K, M, T
+Helsingborg		N15572		2018		K, M, T
+
+Herrljunga		N15436		2016		K
+Herrljunga		N15485		2018		K, M
+Herrljunga		N15488		2016		K
+Herrljunga		N15488		2018		K
+Herrljunga		N15488		2019		K, M
+Herrljunga		N15571		2018		K, M, T
+Herrljunga		N15571		2019		K
+Herrljunga		N15572		2018		K, M, T
+
+Hjo		N15436		2019		K
+Hjo		N15485		2019		K, M
+Hjo		N15488		2018		M
+Hjo		N15488		2019		K, M
+Hjo		N15571		2016		K, M, T
+Hjo		N15571		2017		K, M, T
+Hjo		N15571		2018		K, M, T
+Hjo		N15571		2019		K, M, T
+Hjo		N15572		2018		K, M, T
+
+Hofors		N15436		2017		K
+Hofors		N15436		2018		K
+Hofors		N15436		2019		K
+Hofors		N15485		2016		K
+Hofors		N15488		2016		K
+Hofors		N15488		2018		K, M
+Hofors		N15488		2019		K, M
+Hofors		N15569		2018		K, M, T
+Hofors		N15569		2019		K
+Hofors		N15571		2016		K, M, T
+Hofors		N15571		2017		K
+Hofors		N15571		2018		K, M, T
+Hofors		N15571		2019		K, M, T
+Hofors		N15572		2018		K, M, T
+
+Huddinge		N15571		2018		K, M, T
+Huddinge		N15571		2019		K
+Huddinge		N15572		2018		K, M, T
+
+Hudiksvall		N15488		2018		M
+Hudiksvall		N15571		2017		K
+Hudiksvall		N15571		2018		K, M, T
+Hudiksvall		N15572		2018		K, M, T
+
+Hultsfred		N15488		2016		K
+Hultsfred		N15488		2018		K
+Hultsfred		N15488		2019		K, M
+Hultsfred		N15571		2016		K
+Hultsfred		N15571		2018		K, M, T
+Hultsfred		N15571		2019		K, M, T
+Hultsfred		N15572		2018		K, M, T
+
+Hylte		N15485		2018		M
+Hylte		N15488		2019		K, M
+Hylte		N15571		2018		K, M, T
+Hylte		N15571		2019		K, M, T
+Hylte		N15572		2018		K, M, T
+Hylte		N15573		2019		K, M, T
+Hylte		N15574		2019		K, M, T
+
+Håbo		N15488		2019		K, M
+Håbo		N15571		2016		K
+Håbo		N15571		2017		K
+Håbo		N15571		2018		K, M, T
+Håbo		N15571		2019		K
+Håbo		N15572		2018		K, M, T
+
+Hällefors		N15436		2016		K
+Hällefors		N15436		2019		K
+Hällefors		N15485		2016		K
+Hällefors		N15485		2018		K, M
+Hällefors		N15485		2019		K, M
+Hällefors		N15488		2016		M, T
+Hällefors		N15488		2018		M
+Hällefors		N15488		2019		M, T
+Hällefors		N15569		2016		M
+Hällefors		N15569		2019		K
+Hällefors		N15571		2017		K
+Hällefors		N15571		2018		K, M, T
+Hällefors		N15572		2018		K, M, T
+Hällefors		N15573		2019		K
+Hällefors		N15574		2017		M
+
+Härjedalen		N15485		2018		M
+Härjedalen		N15485		2019		K, M
+Härjedalen		N15488		2019		K, M
+Härjedalen		N15569		2017		K
+Härjedalen		N15571		2017		K, M, T
+Härjedalen		N15571		2018		K, M, T
+Härjedalen		N15571		2019		K, M, T
+Härjedalen		N15572		2018		K, M, T
+
+Härnösand		N15488		2018		M
+Härnösand		N15571		2018		K, M, T
+Härnösand		N15571		2019		K
+Härnösand		N15572		2018		K, M, T
+
+Härryda		N15571		2017		K
+Härryda		N15571		2018		K, M, T
+Härryda		N15571		2019		K
+Härryda		N15572		2018		K, M, T
+
+Hässleholm		N15571		2018		K, M, T
+Hässleholm		N15572		2018		K, M, T
+
+Höganäs		N15571		2018		K, M, T
+Höganäs		N15572		2018		K, M, T
+
+Högsby		N15436		2016		K
+Högsby		N15436		2017		K
+Högsby		N15485		2016		K
+Högsby		N15488		2016		K, M
+Högsby		N15488		2018		K, M
+Högsby		N15569		2016		K
+Högsby		N15569		2017		K, M, T
+Högsby		N15569		2018		M
+Högsby		N15569		2019		K, M, T
+Högsby		N15571		2016		K
+Högsby		N15571		2017		K, M, T
+Högsby		N15571		2018		K, M, T
+Högsby		N15571		2019		K, M, T
+Högsby		N15572		2018		K, M, T
+Högsby		N15573		2016		M
+Högsby		N15573		2019		K, M, T
+Högsby		N15574		2019		M
+
+Hörby		N15488		2019		K, M
+Hörby		N15571		2016		K
+Hörby		N15571		2017		K, M, T
+Hörby		N15571		2018		K, M, T
+Hörby		N15572		2018		K, M, T
+
+Höör		N15488		2019		K, M
+Höör		N15569		2019		K
+Höör		N15571		2016		K, M, T
+Höör		N15571		2017		K
+Höör		N15571		2018		K, M, T
+Höör		N15571		2019		M
+Höör		N15572		2018		K, M, T
+Höör		N15573		2018		K
+
+Jokkmokk		N15419		2016		M
+Jokkmokk		N15436		2016		K
+Jokkmokk		N15436		2018		K, T
+Jokkmokk		N15436		2019		K, M
+Jokkmokk		N15485		2016		K, M, T
+Jokkmokk		N15485		2018		K, M
+Jokkmokk		N15485		2019		K, M
+Jokkmokk		N15488		2018		M, T
+Jokkmokk		N15488		2019		M, T
+Jokkmokk		N15569		2016		M
+Jokkmokk		N15569		2017		K
+Jokkmokk		N15569		2018		M
+Jokkmokk		N15569		2019		M
+Jokkmokk		N15570		2016		M
+Jokkmokk		N15570		2018		M
+Jokkmokk		N15570		2019		M
+Jokkmokk		N15571		2017		K
+Jokkmokk		N15571		2018		K, M, T
+Jokkmokk		N15571		2019		K, M, T
+Jokkmokk		N15572		2017		K
+Jokkmokk		N15572		2018		K, M, T
+Jokkmokk		N15573		2018		K
+Jokkmokk		N15574		2016		K, M, T
+Jokkmokk		N15574		2017		K, M, T
+Jokkmokk		N15574		2019		M
+Jokkmokk		U15461		2018		T
+
+Järfälla		N15571		2018		K, M, T
+Järfälla		N15571		2019		M
+Järfälla		N15572		2018		K, M, T
+
+Jönköping		N15571		2018		K, M, T
+Jönköping		N15572		2018		K, M, T
+
+Kalix		N15436		2019		K
+Kalix		N15485		2019		K, M
+Kalix		N15488		2019		K, M
+Kalix		N15569		2018		K
+Kalix		N15571		2017		K, M, T
+Kalix		N15571		2018		K, M, T
+Kalix		N15571		2019		K, M, T
+Kalix		N15572		2018		K, M, T
+
+Kalmar		N15571		2018		K, M, T
+Kalmar		N15572		2018		K, M, T
+
+Karlsborg		N15436		2016		M
+Karlsborg		N15436		2017		M
+Karlsborg		N15436		2018		K, M
+Karlsborg		N15436		2019		K, M
+Karlsborg		N15485		2016		K, M, T
+Karlsborg		N15485		2018		K, M
+Karlsborg		N15485		2019		K, M
+Karlsborg		N15488		2016		K, M, T
+Karlsborg		N15488		2018		M
+Karlsborg		N15488		2019		K, M
+Karlsborg		N15569		2017		K
+Karlsborg		N15569		2019		K
+Karlsborg		N15571		2016		K
+Karlsborg		N15571		2017		K, M, T
+Karlsborg		N15571		2018		K, M, T
+Karlsborg		N15571		2019		K
+Karlsborg		N15572		2018		K, M, T
+Karlsborg		U15461		2017		T
+Karlsborg		U15461		2018		T
+
+Karlshamn		N15488		2019		K, M
+Karlshamn		N15571		2018		K, M, T
+Karlshamn		N15572		2018		K, M, T
+
+Karlskoga		N15488		2019		K, M
+Karlskoga		N15569		2017		K
+Karlskoga		N15571		2018		K, M, T
+Karlskoga		N15572		2018		K, M, T
+
+Karlskrona		N15571		2018		K, M, T
+Karlskrona		N15571		2019		M
+Karlskrona		N15572		2018		K, M, T
+
+Karlstad		N15488		2019		K, M
+Karlstad		N15571		2018		K, M, T
+Karlstad		N15572		2018		K, M, T
+
+Katrineholm		N15488		2018		M
+Katrineholm		N15571		2018		K, M, T
+Katrineholm		N15571		2019		K
+Katrineholm		N15572		2018		K, M, T
+
+Kil		N15485		2018		M
+Kil		N15488		2018		M
+Kil		N15488		2019		K, M
+Kil		N15569		2017		K, M, T
+Kil		N15570		2017		K, M, T
+Kil		N15571		2016		K
+Kil		N15571		2017		K
+Kil		N15571		2018		K, M, T
+Kil		N15571		2019		K, M, T
+Kil		N15572		2018		K, M, T
+Kil		N15573		2019		K, M, T
+Kil		N15574		2019		K, M, T
+
+Kinda		N15436		2017		M
+Kinda		N15488		2019		K, M
+Kinda		N15569		2017		M
+Kinda		N15571		2016		K
+Kinda		N15571		2018		K, M, T
+Kinda		N15571		2019		K, M, T
+Kinda		N15572		2018		K, M, T
+
+Kiruna		N15571		2017		M
+Kiruna		N15571		2018		K, M, T
+Kiruna		N15571		2019		K, M, T
+Kiruna		N15572		2018		K, M, T
+
+Klippan		N15571		2017		M
+Klippan		N15571		2018		K, M, T
+Klippan		N15571		2019		K
+Klippan		N15572		2018		K, M, T
+
+Knivsta		N15488		2018		M
+Knivsta		N15488		2019		K, M
+Knivsta		N15569		2017		K, M, T
+Knivsta		N15570		2017		K, M, T
+Knivsta		N15571		2017		K, M, T
+Knivsta		N15571		2018		K, M, T
+Knivsta		N15571		2019		K, M, T
+Knivsta		N15572		2018		K, M, T
+
+Kramfors		N15488		2019		K, M
+Kramfors		N15571		2016		M
+Kramfors		N15571		2017		K
+Kramfors		N15571		2018		K, M, T
+Kramfors		N15571		2019		K, M, T
+Kramfors		N15572		2018		K, M, T
+
+Kristianstad		N15571		2018		K, M, T
+Kristianstad		N15572		2018		K, M, T
+
+Kristinehamn		N15488		2019		K, M
+Kristinehamn		N15569		2017		K, M, T
+Kristinehamn		N15570		2017		K, M, T
+Kristinehamn		N15571		2017		K
+Kristinehamn		N15571		2018		K, M, T
+Kristinehamn		N15571		2019		K
+Kristinehamn		N15572		2018		K, M, T
+
+Krokom		N15488		2018		M
+Krokom		N15571		2016		K
+Krokom		N15571		2017		M
+Krokom		N15571		2018		K, M, T
+Krokom		N15571		2019		K, M, T
+Krokom		N15572		2018		K, M, T
+
+Kumla		N15488		2018		M
+Kumla		N15571		2016		K
+Kumla		N15571		2017		K
+Kumla		N15571		2018		K, M, T
+Kumla		N15571		2019		K, M, T
+Kumla		N15572		2018		K, M, T
+
+Kungsbacka		N15571		2018		K, M, T
+Kungsbacka		N15572		2018		K, M, T
+
+Kungsör		N15436		2016		K
+Kungsör		N15488		2016		M
+Kungsör		N15488		2019		K, M, T
+Kungsör		N15571		2017		K, M, T
+Kungsör		N15571		2018		K, M, T
+Kungsör		N15571		2019		K
+Kungsör		N15572		2018		K, M, T
+
+Kungälv		N15488		2018		M
+Kungälv		N15569		2016		K
+Kungälv		N15571		2018		K, M, T
+Kungälv		N15572		2018		K, M, T
+
+Kävlinge		N15488		2018		M
+Kävlinge		N15488		2019		K, M
+Kävlinge		N15571		2018		K, M, T
+Kävlinge		N15571		2019		K, M, T
+Kävlinge		N15572		2018		K, M, T
+
+Köping		N15571		2018		K, M, T
+Köping		N15571		2019		K, M, T
+Köping		N15572		2018		K, M, T
+
+Laholm		N15571		2017		K, M, T
+Laholm		N15571		2018		K, M, T
+Laholm		N15571		2019		K, M, T
+Laholm		N15572		2018		K, M, T
+
+Landskrona		N15488		2018		M
+Landskrona		N15488		2019		K, M
+Landskrona		N15571		2018		K, M, T
+Landskrona		N15572		2018		K, M, T
+
+Laxå		N15436		2016		M
+Laxå		N15485		2016		K
+Laxå		N15485		2018		K, M
+Laxå		N15485		2019		K, M
+Laxå		N15488		2016		K
+Laxå		N15488		2018		K, M
+Laxå		N15488		2019		K, M, T
+Laxå		N15569		2019		K
+Laxå		N15571		2018		K, M, T
+Laxå		N15571		2019		K
+Laxå		N15572		2018		K, M, T
+Laxå		N15573		2017		K
+
+Lekeberg		N15436		2016		M
+Lekeberg		N15485		2018		K
+Lekeberg		N15488		2018		K
+Lekeberg		N15488		2019		K, M
+Lekeberg		N15571		2016		K, M, T
+Lekeberg		N15571		2017		K
+Lekeberg		N15571		2018		K, M, T
+Lekeberg		N15571		2019		K
+Lekeberg		N15572		2018		K, M, T
+Lekeberg		N15573		2017		K
+Lekeberg		N15573		2019		K
+
+Leksand		N15485		2018		M
+Leksand		N15488		2019		K, M, T
+Leksand		N15571		2018		K, M, T
+Leksand		N15571		2019		K
+Leksand		N15572		2018		K, M, T
+Leksand		N15574		2016		M
+
+Lerum		N15571		2017		K
+Lerum		N15571		2018		K, M, T
+Lerum		N15571		2019		K, M, T
+Lerum		N15572		2018		K, M, T
+
+Lessebo		N15488		2016		K
+Lessebo		N15488		2019		K, M
+Lessebo		N15569		2017		K
+Lessebo		N15571		2016		K, M, T
+Lessebo		N15571		2017		K, M, T
+Lessebo		N15571		2018		K, M, T
+Lessebo		N15571		2019		K, M, T
+Lessebo		N15572		2018		K, M, T
+Lessebo		N15573		2017		K, M, T
+Lessebo		N15573		2018		K
+Lessebo		N15573		2019		K, M, T
+Lessebo		N15574		2016		K
+
+Lidingö		N15488		2019		K, M
+Lidingö		N15571		2018		K, M, T
+Lidingö		N15572		2018		K, M, T
+Lidingö		N15573		2018		K, M, T
+Lidingö		N15574		2018		K, M, T
+
+Lidköping		N15488		2018		M
+Lidköping		N15488		2019		K, M
+Lidköping		N15571		2018		K, M, T
+Lidköping		N15571		2019		K
+Lidköping		N15572		2018		K, M, T
+
+Lilla Edet		N15485		2019		K, M
+Lilla Edet		N15488		2019		K, M
+Lilla Edet		N15571		2017		K
+Lilla Edet		N15571		2018		K, M, T
+Lilla Edet		N15571		2019		K
+Lilla Edet		N15572		2018		K, M, T
+
+Lindesberg		N15488		2019		K, M
+Lindesberg		N15571		2018		K, M, T
+Lindesberg		N15571		2019		M
+Lindesberg		N15572		2018		K, M, T
+
+Linköping		N15571		2018		K, M, T
+Linköping		N15572		2018		K, M, T
+
+Ljungby		N15571		2018		K, M, T
+Ljungby		N15571		2019		K
+Ljungby		N15572		2018		K, M, T
+
+Ljusdal		N15571		2017		K, M, T
+Ljusdal		N15571		2018		K, M, T
+Ljusdal		N15572		2018		K, M, T
+
+Ljusnarsberg		N15034		2017		T
+Ljusnarsberg		N15419		2016		K
+Ljusnarsberg		N15419		2018		M
+Ljusnarsberg		N15436		2016		K, M
+Ljusnarsberg		N15485		2016		K, M, T
+Ljusnarsberg		N15485		2018		K, M
+Ljusnarsberg		N15485		2019		K, M
+Ljusnarsberg		N15488		2016		K, M
+Ljusnarsberg		N15488		2019		K, M
+Ljusnarsberg		N15569		2016		K
+Ljusnarsberg		N15569		2018		K
+Ljusnarsberg		N15569		2019		M
+Ljusnarsberg		N15570		2016		K
+Ljusnarsberg		N15570		2019		K
+Ljusnarsberg		N15571		2016		K
+Ljusnarsberg		N15571		2017		K
+Ljusnarsberg		N15571		2018		K, M, T
+Ljusnarsberg		N15571		2019		K, M, T
+Ljusnarsberg		N15572		2016		K
+Ljusnarsberg		N15572		2018		K, M, T
+Ljusnarsberg		N15572		2019		K
+Ljusnarsberg		N15573		2016		K
+Ljusnarsberg		N15573		2019		K
+Ljusnarsberg		N15574		2016		K
+Ljusnarsberg		N15574		2017		K
+Ljusnarsberg		N15814		2017		T
+
+Lomma		N15436		2019		K
+Lomma		N15488		2018		M
+Lomma		N15488		2019		K, M
+Lomma		N15571		2016		K
+Lomma		N15571		2018		K, M, T
+Lomma		N15572		2018		K, M, T
+
+Ludvika		N15488		2019		K, M
+Ludvika		N15571		2017		K
+Ludvika		N15571		2018		K, M, T
+Ludvika		N15571		2019		K
+Ludvika		N15572		2018		K, M, T
+Ludvika		N15573		2018		K
+
+Luleå		N15571		2017		K
+Luleå		N15571		2018		K, M, T
+Luleå		N15572		2018		K, M, T
+
+Lund		N15571		2018		K, M, T
+Lund		N15572		2018		K, M, T
+
+Lycksele		N15488		2016		K
+Lycksele		N15488		2018		M
+Lycksele		N15488		2019		K, M
+Lycksele		N15571		2016		K
+Lycksele		N15571		2018		K, M, T
+Lycksele		N15571		2019		K, M, T
+Lycksele		N15572		2018		K, M, T
+
+Lysekil		N15485		2018		M
+Lysekil		N15488		2018		M
+Lysekil		N15488		2019		K, M
+Lysekil		N15569		2017		K
+Lysekil		N15569		2019		K, M, T
+Lysekil		N15571		2016		M
+Lysekil		N15571		2017		K, M, T
+Lysekil		N15571		2018		K, M, T
+Lysekil		N15571		2019		K, M, T
+Lysekil		N15572		2018		K, M, T
+Lysekil		N15573		2019		K
+
+Malmö		N15571		2018		K, M, T
+Malmö		N15572		2018		K, M, T
+
+Malung-Sälen		N15485		2018		M
+Malung-Sälen		N15488		2019		K, M
+Malung-Sälen		N15569		2016		K
+Malung-Sälen		N15569		2018		K
+Malung-Sälen		N15571		2017		K
+Malung-Sälen		N15571		2018		K, M, T
+Malung-Sälen		N15572		2018		K, M, T
+Malung-Sälen		N15573		2019		M
+
+Malå		N15436		2016		K, M
+Malå		N15436		2018		K, M
+Malå		N15436		2019		K, M
+Malå		N15485		2016		K, M, T
+Malå		N15485		2018		K, M
+Malå		N15485		2019		K, M
+Malå		N15488		2016		M, T
+Malå		N15488		2018		K, M, T
+Malå		N15569		2017		M
+Malå		N15569		2018		K
+Malå		N15569		2019		K
+Malå		N15570		2017		K, M
+Malå		N15570		2019		K
+Malå		N15571		2016		K
+Malå		N15571		2017		K
+Malå		N15571		2018		K, M, T
+Malå		N15571		2019		K, M, T
+Malå		N15572		2018		K, M, T
+Malå		N15573		2017		M
+Malå		N15573		2018		K, M, T
+Malå		N15574		2016		M
+Malå		N15574		2018		K, M, T
+Malå		N15574		2019		M
+Malå		U15461		2018		T
+
+Mariestad		N15485		2018		M
+Mariestad		N15571		2017		K, M, T
+Mariestad		N15571		2018		K, M, T
+Mariestad		N15572		2018		K, M, T
+
+Mark		N15571		2018		K, M, T
+Mark		N15572		2018		K, M, T
+
+Markaryd		N15488		2016		K
+Markaryd		N15488		2018		K, M
+Markaryd		N15569		2019		K
+Markaryd		N15571		2017		M
+Markaryd		N15571		2018		K, M, T
+Markaryd		N15571		2019		K
+Markaryd		N15572		2018		K, M, T
+
+Mellerud		N15488		2016		K
+Mellerud		N15488		2018		K, M
+Mellerud		N15488		2019		K, M
+Mellerud		N15569		2016		M
+Mellerud		N15569		2017		K, M, T
+Mellerud		N15569		2018		K
+Mellerud		N15569		2019		K
+Mellerud		N15571		2016		K, M, T
+Mellerud		N15571		2017		K
+Mellerud		N15571		2018		K, M, T
+Mellerud		N15571		2019		K, M, T
+Mellerud		N15572		2018		K, M, T
+Mellerud		N15573		2016		K
+Mellerud		N15573		2017		K
+Mellerud		N15573		2018		K, M, T
+Mellerud		N15573		2019		K
+
+Mjölby		N15571		2017		K
+Mjölby		N15571		2018		K, M, T
+Mjölby		N15572		2018		K, M, T
+
+Mora		N15571		2018		K, M, T
+Mora		N15572		2018		K, M, T
+
+Motala		N15488		2018		M
+Motala		N15571		2018		K, M, T
+Motala		N15572		2018		K, M, T
+
+Mullsjö		N15436		2017		K
+Mullsjö		N15436		2019		K, M
+Mullsjö		N15569		2016		K
+Mullsjö		N15569		2017		K
+Mullsjö		N15569		2018		K
+Mullsjö		N15571		2016		K, M, T
+Mullsjö		N15571		2017		K, M, T
+Mullsjö		N15571		2018		K, M, T
+Mullsjö		N15571		2019		K
+Mullsjö		N15572		2018		K, M, T
+Mullsjö		N15573		2017		M
+
+Munkedal		N15488		2018		M
+Munkedal		N15571		2018		K, M, T
+Munkedal		N15572		2018		K, M, T
+Munkedal		N15573		2018		K, M, T
+Munkedal		N15574		2018		K, M, T
+
+Munkfors		N15008		2016		T
+Munkfors		N15436		2016		K, M
+Munkfors		N15436		2018		K, M
+Munkfors		N15436		2019		K, M
+Munkfors		N15485		2016		K
+Munkfors		N15485		2018		K, M
+Munkfors		N15485		2019		K, T
+Munkfors		N15488		2016		K, M, T
+Munkfors		N15569		2016		K
+Munkfors		N15569		2017		K, M, T
+Munkfors		N15569		2018		K, M
+Munkfors		N15570		2017		K, M, T
+Munkfors		N15570		2018		K, M
+Munkfors		N15571		2017		K, M, T
+Munkfors		N15571		2018		K, M, T
+Munkfors		N15571		2019		K
+Munkfors		N15572		2018		K, M, T
+Munkfors		N15573		2019		K
+Munkfors		U15461		2016		T
+
+Mölndal		N15569		2018		K, M, T
+Mölndal		N15570		2018		K, M, T
+Mölndal		N15571		2017		K
+Mölndal		N15571		2018		K, M, T
+Mölndal		N15572		2018		K, M, T
+Mölndal		N15573		2018		K, M, T
+Mölndal		N15574		2018		K, M, T
+
+Mönsterås		N15488		2018		K
+Mönsterås		N15488		2019		K, M
+Mönsterås		N15571		2017		K
+Mönsterås		N15571		2018		K, M, T
+Mönsterås		N15571		2019		K, M, T
+Mönsterås		N15572		2018		K, M, T
+
+Mörbylånga		N15436		2019		K
+Mörbylånga		N15485		2018		M
+Mörbylånga		N15488		2019		K, M
+Mörbylånga		N15569		2018		K
+Mörbylånga		N15569		2019		K
+Mörbylånga		N15571		2017		K, M, T
+Mörbylånga		N15571		2018		K, M, T
+Mörbylånga		N15572		2018		K, M, T
+Mörbylånga		N15573		2018		K, M, T
+
+Nacka		N15488		2019		K, M
+Nacka		N15571		2018		K, M, T
+Nacka		N15572		2018		K, M, T
+
+Nora		N15485		2016		K
+Nora		N15485		2018		M
+Nora		N15488		2016		K
+Nora		N15488		2019		K, M
+Nora		N15571		2016		M
+Nora		N15571		2017		K, M, T
+Nora		N15571		2018		K, M, T
+Nora		N15571		2019		K, M, T
+Nora		N15572		2018		K, M, T
+
+Norberg		N15436		2016		K
+Norberg		N15485		2016		K, M
+Norberg		N15485		2019		K, M
+Norberg		N15488		2018		K, M
+Norberg		N15488		2019		K, M
+Norberg		N15569		2018		M
+Norberg		N15571		2018		K, M, T
+Norberg		N15571		2019		M
+Norberg		N15572		2018		K, M, T
+Norberg		N15573		2018		K
+Norberg		N15573		2019		K
+Norberg		N15574		2018		M
+
+Nordanstig		N15436		2016		K
+Nordanstig		N15436		2018		K
+Nordanstig		N15436		2019		K, M
+Nordanstig		N15485		2018		K, M
+Nordanstig		N15485		2019		K, M
+Nordanstig		N15488		2018		M
+Nordanstig		N15488		2019		K, M
+Nordanstig		N15569		2017		K, M
+Nordanstig		N15569		2018		K
+Nordanstig		N15570		2017		K, M
+Nordanstig		N15571		2016		K
+Nordanstig		N15571		2017		K, M, T
+Nordanstig		N15571		2018		K, M, T
+Nordanstig		N15571		2019		K
+Nordanstig		N15572		2017		K
+Nordanstig		N15572		2018		K, M, T
+Nordanstig		N15573		2017		M
+Nordanstig		N15573		2018		K, M, T
+Nordanstig		N15573		2019		K, M, T
+
+Nordmaling		N15436		2016		M
+Nordmaling		N15436		2017		K
+Nordmaling		N15436		2018		K
+Nordmaling		N15485		2016		M
+Nordmaling		N15485		2019		K, M
+Nordmaling		N15488		2018		K, M
+Nordmaling		N15488		2019		K, M
+Nordmaling		N15571		2017		K
+Nordmaling		N15571		2018		K, M, T
+Nordmaling		N15571		2019		K
+Nordmaling		N15572		2018		K, M, T
+Nordmaling		N15573		2017		K
+Nordmaling		U15461		2016		T
+
+Norrköping		N15571		2017		K
+Norrköping		N15571		2018		K, M, T
+Norrköping		N15571		2019		K
+Norrköping		N15572		2018		K, M, T
+
+Norrtälje		N15488		2019		K, M
+Norrtälje		N15571		2017		K
+Norrtälje		N15571		2018		K, M, T
+Norrtälje		N15571		2019		K
+Norrtälje		N15572		2018		K, M, T
+
+Norsjö		N15436		2016		K, M
+Norsjö		N15436		2018		K, M
+Norsjö		N15436		2019		K, M, T
+Norsjö		N15485		2016		K, M, T
+Norsjö		N15485		2019		K, M, T
+Norsjö		N15488		2016		K, M, T
+Norsjö		N15488		2018		M, T
+Norsjö		N15488		2019		K, T
+Norsjö		N15569		2016		M
+Norsjö		N15569		2019		K, M
+Norsjö		N15570		2019		M
+Norsjö		N15571		2016		K, M, T
+Norsjö		N15571		2017		K, M, T
+Norsjö		N15571		2018		K, M, T
+Norsjö		N15571		2019		K, M, T
+Norsjö		N15572		2018		K, M, T
+Norsjö		N15572		2019		M
+Norsjö		N15573		2016		K
+Norsjö		N15573		2019		M
+Norsjö		N15574		2017		M
+Norsjö		N15574		2019		M
+Norsjö		U15461		2016		T
+Norsjö		U15461		2018		T
+
+Nybro		N15488		2018		M
+Nybro		N15571		2016		K
+Nybro		N15571		2018		K, M, T
+Nybro		N15571		2019		M
+Nybro		N15572		2018		K, M, T
+
+Nykvarn		N15436		2019		K
+Nykvarn		N15485		2018		M
+Nykvarn		N15485		2019		K, M
+Nykvarn		N15488		2019		M, T
+Nykvarn		N15571		2016		K
+Nykvarn		N15571		2017		K, M, T
+Nykvarn		N15571		2018		K, M, T
+Nykvarn		N15572		2018		K, M, T
+Nykvarn		U15461		2016		T
+
+Nyköping		N15488		2018		M
+Nyköping		N15571		2018		K, M, T
+Nyköping		N15572		2018		K, M, T
+
+Nynäshamn		N15488		2018		M
+Nynäshamn		N15488		2019		K, M
+Nynäshamn		N15571		2017		K, M, T
+Nynäshamn		N15571		2018		K, M, T
+Nynäshamn		N15571		2019		M
+Nynäshamn		N15572		2018		K, M, T
+
+Nässjö		N15488		2018		M
+Nässjö		N15571		2018		K, M, T
+Nässjö		N15571		2019		K
+Nässjö		N15572		2018		K, M, T
+
+Ockelbo		N15436		2016		K, M
+Ockelbo		N15436		2017		K
+Ockelbo		N15436		2018		M
+Ockelbo		N15485		2016		M
+Ockelbo		N15485		2018		K, M
+Ockelbo		N15488		2018		K, T
+Ockelbo		N15569		2017		M
+Ockelbo		N15569		2018		K, M
+Ockelbo		N15569		2019		K
+Ockelbo		N15570		2018		M
+Ockelbo		N15571		2016		K, M, T
+Ockelbo		N15571		2017		M
+Ockelbo		N15571		2018		K, M, T
+Ockelbo		N15571		2019		K, M, T
+Ockelbo		N15572		2018		K, M, T
+Ockelbo		N15573		2018		M
+Ockelbo		N15574		2018		M
+Ockelbo		U15461		2016		T
+
+Olofström		N15485		2018		K
+Olofström		N15485		2019		K, M
+Olofström		N15569		2016		K
+Olofström		N15569		2018		K
+Olofström		N15569		2019		K
+Olofström		N15571		2017		K, M, T
+Olofström		N15571		2018		K, M, T
+Olofström		N15571		2019		K, M, T
+Olofström		N15572		2018		K, M, T
+
+Orsa		N15436		2016		K
+Orsa		N15436		2017		K
+Orsa		N15436		2019		M
+Orsa		N15485		2016		M
+Orsa		N15485		2018		K, M
+Orsa		N15485		2019		K, M
+Orsa		N15488		2016		K, M
+Orsa		N15488		2018		M
+Orsa		N15488		2019		K, M, T
+Orsa		N15569		2019		K
+Orsa		N15571		2016		K
+Orsa		N15571		2017		K, M, T
+Orsa		N15571		2018		K, M, T
+Orsa		N15571		2019		K, M, T
+Orsa		N15572		2018		K, M, T
+Orsa		N15573		2017		K, M, T
+Orsa		N15573		2018		M
+
+Orust		N15485		2018		K
+Orust		N15488		2019		K, M
+Orust		N15569		2017		K, M, T
+Orust		N15570		2017		K, M, T
+Orust		N15571		2017		K, M, T
+Orust		N15571		2018		K, M, T
+Orust		N15571		2019		M
+Orust		N15572		2018		K, M, T
+Orust		N15574		2018		M
+
+Osby		N15485		2018		K
+Osby		N15488		2019		K, M
+Osby		N15571		2017		M
+Osby		N15571		2018		K, M, T
+Osby		N15571		2019		K
+Osby		N15572		2018		K, M, T
+Osby		N15574		2018		M
+
+Oskarshamn		N15488		2018		M
+Oskarshamn		N15488		2019		K, M
+Oskarshamn		N15571		2018		K, M, T
+Oskarshamn		N15572		2018		K, M, T
+
+Ovanåker		N15485		2018		K
+Ovanåker		N15488		2019		K, M, T
+Ovanåker		N15569		2018		K
+Ovanåker		N15571		2016		K
+Ovanåker		N15571		2017		K
+Ovanåker		N15571		2018		K, M, T
+Ovanåker		N15571		2019		K, M, T
+Ovanåker		N15572		2018		K, M, T
+Ovanåker		N15574		2016		M
+
+Oxelösund		N15488		2018		M
+Oxelösund		N15488		2019		K, M
+Oxelösund		N15569		2017		K, M, T
+Oxelösund		N15569		2018		K
+Oxelösund		N15569		2019		M
+Oxelösund		N15571		2017		K
+Oxelösund		N15571		2018		K, M, T
+Oxelösund		N15572		2018		K, M, T
+Oxelösund		N15573		2016		K
+Oxelösund		N15573		2018		K
+
+Pajala		N15436		2018		K
+Pajala		N15485		2018		K, M
+Pajala		N15488		2016		K
+Pajala		N15488		2018		K, M
+Pajala		N15488		2019		K, M
+Pajala		N15569		2016		K
+Pajala		N15569		2017		K
+Pajala		N15569		2018		K, M, T
+Pajala		N15569		2019		K, M, T
+Pajala		N15571		2017		M
+Pajala		N15571		2018		K, M, T
+Pajala		N15571		2019		K, M, T
+Pajala		N15572		2018		K, M, T
+Pajala		N15573		2016		K
+Pajala		N15573		2017		K
+Pajala		N15573		2019		M
+
+Partille		N15571		2016		K
+Partille		N15571		2017		K
+Partille		N15571		2018		K, M, T
+Partille		N15571		2019		K, M, T
+Partille		N15572		2018		K, M, T
+
+Perstorp		N15436		2018		K
+Perstorp		N15485		2016		K
+Perstorp		N15488		2016		K
+Perstorp		N15488		2018		K, M
+Perstorp		N15488		2019		K, M
+Perstorp		N15569		2019		K
+Perstorp		N15571		2017		K
+Perstorp		N15571		2018		K, M, T
+Perstorp		N15571		2019		K, M, T
+Perstorp		N15572		2018		K, M, T
+Perstorp		N15574		2017		M
+Perstorp		N15574		2018		M
+Perstorp		N15574		2019		M
+
+Piteå		N15571		2018		K, M, T
+Piteå		N15572		2018		K, M, T
+
+Ragunda		N15436		2016		K, M
+Ragunda		N15436		2018		K
+Ragunda		N15436		2019		K
+Ragunda		N15485		2016		K, M
+Ragunda		N15485		2018		K, M
+Ragunda		N15488		2016		K, M
+Ragunda		N15488		2018		M, T
+Ragunda		N15571		2016		K
+Ragunda		N15571		2017		K, M, T
+Ragunda		N15571		2018		K, M, T
+Ragunda		N15571		2019		K, M, T
+Ragunda		N15572		2018		K, M, T
+Ragunda		N15574		2016		M
+Ragunda		N15574		2017		M
+Ragunda		N15574		2019		M
+
+Robertsfors		N15436		2016		K, M
+Robertsfors		N15436		2017		K
+Robertsfors		N15436		2019		M, T
+Robertsfors		N15485		2016		K, M
+Robertsfors		N15485		2018		K, M
+Robertsfors		N15485		2019		M, T
+Robertsfors		N15488		2016		M
+Robertsfors		N15488		2019		K, M
+Robertsfors		N15569		2016		K
+Robertsfors		N15569		2019		K
+Robertsfors		N15571		2016		K
+Robertsfors		N15571		2018		K, M, T
+Robertsfors		N15571		2019		K
+Robertsfors		N15572		2018		K, M, T
+Robertsfors		N15574		2016		M
+Robertsfors		N15574		2018		M
+
+Ronneby		N15488		2018		M
+Ronneby		N15488		2019		K, M
+Ronneby		N15569		2018		K
+Ronneby		N15571		2018		K, M, T
+Ronneby		N15571		2019		K
+Ronneby		N15572		2018		K, M, T
+
+Rättvik		N15436		2019		K
+Rättvik		N15485		2019		K, M
+Rättvik		N15488		2018		M
+Rättvik		N15488		2019		K, M
+Rättvik		N15569		2017		K
+Rättvik		N15571		2017		K, M, T
+Rättvik		N15571		2018		K, M, T
+Rättvik		N15572		2018		K, M, T
+Rättvik		N15573		2017		K, M, T
+Rättvik		U15461		2016		T
+
+Sala		N15488		2018		M
+Sala		N15488		2019		K, M
+Sala		N15571		2016		K
+Sala		N15571		2017		K
+Sala		N15571		2018		K, M, T
+Sala		N15572		2018		K, M, T
+
+Salem		N15488		2019		K, M
+Salem		N15569		2017		K, M
+Salem		N15570		2017		K, M
+Salem		N15571		2018		K, M, T
+Salem		N15572		2018		K, M, T
+Salem		N15573		2017		K
+
+Sandviken		N15571		2017		K
+Sandviken		N15571		2018		K, M, T
+Sandviken		N15572		2018		K, M, T
+
+Sigtuna		N15571		2017		M
+Sigtuna		N15571		2018		K, M, T
+Sigtuna		N15571		2019		M
+Sigtuna		N15572		2018		K, M, T
+
+Simrishamn		N15485		2019		K, M
+Simrishamn		N15488		2019		K, M
+Simrishamn		N15569		2016		K
+Simrishamn		N15569		2019		K
+Simrishamn		N15571		2016		K
+Simrishamn		N15571		2017		K, M, T
+Simrishamn		N15571		2018		K, M, T
+Simrishamn		N15571		2019		K, M, T
+Simrishamn		N15572		2018		K, M, T
+Simrishamn		N15573		2016		M
+
+Sjöbo		N15488		2018		M
+Sjöbo		N15571		2017		K
+Sjöbo		N15571		2018		K, M, T
+Sjöbo		N15571		2019		K, M, T
+Sjöbo		N15572		2018		K, M, T
+
+Skara		N15488		2018		M
+Skara		N15488		2019		K, M
+Skara		N15569		2019		K
+Skara		N15571		2017		K, M, T
+Skara		N15571		2018		K, M, T
+Skara		N15571		2019		K
+Skara		N15572		2018		K, M, T
+Skara		N15573		2018		K
+
+Skellefteå		N15571		2018		K, M, T
+Skellefteå		N15572		2018		K, M, T
+
+Skinnskatteberg		N15419		2016		K, M
+Skinnskatteberg		N15419		2017		M
+Skinnskatteberg		N15419		2018		K, M
+Skinnskatteberg		N15436		2017		K
+Skinnskatteberg		N15436		2018		K, M
+Skinnskatteberg		N15436		2019		M
+Skinnskatteberg		N15485		2016		K, M
+Skinnskatteberg		N15485		2018		K, M
+Skinnskatteberg		N15485		2019		K, M
+Skinnskatteberg		N15488		2016		M
+Skinnskatteberg		N15488		2018		M
+Skinnskatteberg		N15488		2019		M, T
+Skinnskatteberg		N15505		2018		K, M
+Skinnskatteberg		N15569		2016		M
+Skinnskatteberg		N15569		2017		M
+Skinnskatteberg		N15569		2018		K
+Skinnskatteberg		N15569		2019		K
+Skinnskatteberg		N15570		2016		M
+Skinnskatteberg		N15570		2017		M
+Skinnskatteberg		N15570		2018		K
+Skinnskatteberg		N15571		2016		K, M, T
+Skinnskatteberg		N15571		2017		K, M
+Skinnskatteberg		N15571		2018		K, M, T
+Skinnskatteberg		N15571		2019		K, M, T
+Skinnskatteberg		N15572		2016		K
+Skinnskatteberg		N15572		2017		M
+Skinnskatteberg		N15572		2018		K, M, T
+Skinnskatteberg		N15573		2016		K, M
+Skinnskatteberg		N15573		2017		M
+Skinnskatteberg		N15573		2018		K
+Skinnskatteberg		N15574		2016		K, M
+Skinnskatteberg		N15574		2017		M
+Skinnskatteberg		N15574		2018		K, M, T
+
+Skurup		N15488		2018		M
+Skurup		N15488		2019		K, M
+Skurup		N15569		2018		K, M, T
+Skurup		N15570		2018		K, M, T
+Skurup		N15571		2018		K, M, T
+Skurup		N15571		2019		K, M, T
+Skurup		N15572		2018		K, M, T
+
+Skövde		N15488		2019		K, M
+Skövde		N15569		2017		K, M, T
+Skövde		N15570		2017		K, M, T
+Skövde		N15571		2018		K, M, T
+Skövde		N15572		2018		K, M, T
+
+Smedjebacken		N15436		2017		K
+Smedjebacken		N15485		2018		M
+Smedjebacken		N15488		2018		M
+Smedjebacken		N15488		2019		M, T
+Smedjebacken		N15569		2017		K
+Smedjebacken		N15571		2016		K
+Smedjebacken		N15571		2017		K
+Smedjebacken		N15571		2018		K, M, T
+Smedjebacken		N15571		2019		K, M, T
+Smedjebacken		N15572		2018		K, M, T
+
+Sollefteå		N15571		2016		K
+Sollefteå		N15571		2017		K
+Sollefteå		N15571		2018		K, M, T
+Sollefteå		N15571		2019		K
+Sollefteå		N15572		2018		K, M, T
+
+Sollentuna		N15569		2017		K, M, T
+Sollentuna		N15570		2017		K, M, T
+Sollentuna		N15571		2018		K, M, T
+Sollentuna		N15572		2018		K, M, T
+
+Solna		N15571		2018		K, M, T
+Solna		N15571		2019		K
+Solna		N15572		2018		K, M, T
+
+Sorsele		N15419		2018		K, M, T
+Sorsele		N15419		2019		K
+Sorsele		N15436		2017		K, M
+Sorsele		N15436		2018		K, M, T
+Sorsele		N15436		2019		K
+Sorsele		N15485		2016		K, M, T
+Sorsele		N15485		2017		K, M
+Sorsele		N15485		2018		K, M
+Sorsele		N15485		2019		K, M, T
+Sorsele		N15488		2016		K
+Sorsele		N15488		2017		K, M
+Sorsele		N15488		2018		M, T
+Sorsele		N15488		2019		K, M
+Sorsele		N15505		2018		K, M
+Sorsele		N15569		2016		K, M, T
+Sorsele		N15569		2017		K
+Sorsele		N15569		2018		K, M, T
+Sorsele		N15569		2019		K, M
+Sorsele		N15570		2016		K, M
+Sorsele		N15570		2017		K
+Sorsele		N15570		2018		K, M, T
+Sorsele		N15570		2019		K, M
+Sorsele		N15571		2016		K, M, T
+Sorsele		N15571		2017		K, M, T
+Sorsele		N15571		2018		K, M, T
+Sorsele		N15571		2019		K, M
+Sorsele		N15572		2016		K
+Sorsele		N15572		2017		K
+Sorsele		N15572		2018		K, M, T
+Sorsele		N15572		2019		K
+Sorsele		N15573		2016		K
+Sorsele		N15573		2017		K
+Sorsele		N15573		2018		K, M, T
+Sorsele		N15573		2019		K
+Sorsele		N15574		2016		K, M, T
+Sorsele		N15574		2017		K, M
+Sorsele		N15574		2018		K, M, T
+Sorsele		N15574		2019		K, M
+Sorsele		U15461		2018		T
+
+Sotenäs		N15485		2016		K, M
+Sotenäs		N15485		2018		K, M
+Sotenäs		N15485		2019		K, M
+Sotenäs		N15488		2018		K, M
+Sotenäs		N15569		2017		K
+Sotenäs		N15570		2018		M
+Sotenäs		N15571		2016		K
+Sotenäs		N15571		2017		K
+Sotenäs		N15571		2018		K, M, T
+Sotenäs		N15571		2019		K
+Sotenäs		N15572		2018		K, M, T
+Sotenäs		N15573		2019		K
+
+Staffanstorp		N15488		2018		M
+Staffanstorp		N15488		2019		K, M
+Staffanstorp		N15571		2016		K
+Staffanstorp		N15571		2018		K, M, T
+Staffanstorp		N15571		2019		K
+Staffanstorp		N15572		2018		K, M, T
+
+Stenungsund		N15488		2019		K, M
+Stenungsund		N15569		2017		K
+Stenungsund		N15571		2018		K, M, T
+Stenungsund		N15572		2018		K, M, T
+
+Stockholm		N15571		2018		K, M, T
+Stockholm		N15572		2018		K, M, T
+
+Storfors		N15436		2016		K
+Storfors		N15436		2017		K, M
+Storfors		N15436		2018		K
+Storfors		N15436		2019		K, M, T
+Storfors		N15485		2016		M
+Storfors		N15485		2018		K
+Storfors		N15485		2019		K, M, T
+Storfors		N15488		2016		M, T
+Storfors		N15569		2016		K
+Storfors		N15569		2017		K, M, T
+Storfors		N15569		2018		K, M, T
+Storfors		N15569		2019		K
+Storfors		N15570		2016		K
+Storfors		N15570		2019		K
+Storfors		N15571		2017		M
+Storfors		N15571		2018		K, M, T
+Storfors		N15572		2018		K, M, T
+Storfors		N15573		2016		K
+Storfors		N15573		2017		M
+Storfors		N15573		2018		K, M, T
+Storfors		N15573		2019		M
+Storfors		N15574		2017		K
+Storfors		U15461		2017		T
+Storfors		U15461		2018		T
+
+Storuman		N15436		2016		K
+Storuman		N15436		2017		K
+Storuman		N15436		2018		K, M
+Storuman		N15485		2016		K, M
+Storuman		N15485		2018		K, M
+Storuman		N15485		2019		K, M
+Storuman		N15488		2016		M
+Storuman		N15488		2018		K, M, T
+Storuman		N15488		2019		K, M, T
+Storuman		N15569		2016		M
+Storuman		N15569		2017		K, M, T
+Storuman		N15569		2018		K
+Storuman		N15569		2019		K
+Storuman		N15571		2016		K, M, T
+Storuman		N15571		2017		K, M, T
+Storuman		N15571		2018		K, M, T
+Storuman		N15571		2019		K, M, T
+Storuman		N15572		2018		K, M, T
+Storuman		N15573		2017		K
+Storuman		N15573		2018		K
+
+Strängnäs		N15571		2016		K
+Strängnäs		N15571		2017		M
+Strängnäs		N15571		2018		K, M, T
+Strängnäs		N15571		2019		K, M, T
+Strängnäs		N15572		2018		K, M, T
+
+Strömstad		N15485		2019		K, M
+Strömstad		N15571		2016		K
+Strömstad		N15571		2017		M
+Strömstad		N15571		2018		K, M, T
+Strömstad		N15571		2019		K, M, T
+Strömstad		N15572		2018		K, M, T
+Strömstad		N15573		2018		K
+Strömstad		N15574		2019		K
+
+Strömsund		N15485		2018		M
+Strömsund		N15485		2019		K, M
+Strömsund		N15488		2018		M
+Strömsund		N15488		2019		K, M
+Strömsund		N15571		2017		K
+Strömsund		N15571		2018		K, M, T
+Strömsund		N15571		2019		K, M, T
+Strömsund		N15572		2018		K, M, T
+
+Sundbyberg		N15488		2019		K, M
+Sundbyberg		N15569		2018		K
+Sundbyberg		N15569		2019		K, M, T
+Sundbyberg		N15570		2018		K
+Sundbyberg		N15570		2019		K
+Sundbyberg		N15571		2016		K
+Sundbyberg		N15571		2017		K
+Sundbyberg		N15571		2018		K, M, T
+Sundbyberg		N15571		2019		M
+Sundbyberg		N15572		2018		K, M, T
+Sundbyberg		N15574		2019		K
+
+Sundsvall		N15571		2018		K, M, T
+Sundsvall		N15572		2018		K, M, T
+
+Sunne		N15488		2018		M
+Sunne		N15488		2019		K, M
+Sunne		N15571		2017		K, M, T
+Sunne		N15571		2018		K, M, T
+Sunne		N15571		2019		K, M, T
+Sunne		N15572		2018		K, M, T
+Sunne		U15461		2018		T
+
+Surahammar		N15485		2019		K, M
+Surahammar		N15488		2019		K, M
+Surahammar		N15571		2016		K, M, T
+Surahammar		N15571		2017		K, M, T
+Surahammar		N15571		2018		K, M, T
+Surahammar		N15571		2019		K, M, T
+Surahammar		N15572		2018		K, M, T
+
+Svalöv		N15488		2019		K, M
+Svalöv		N15571		2016		K
+Svalöv		N15571		2018		K, M, T
+Svalöv		N15571		2019		K, M, T
+Svalöv		N15572		2018		K, M, T
+
+Svedala		N15571		2017		K, M, T
+Svedala		N15571		2018		K, M, T
+Svedala		N15571		2019		K, M, T
+Svedala		N15572		2018		K, M, T
+
+Svenljunga		N15488		2018		M
+Svenljunga		N15488		2019		K, M, T
+Svenljunga		N15569		2017		M
+Svenljunga		N15571		2017		K
+Svenljunga		N15571		2018		K, M, T
+Svenljunga		N15571		2019		K, M, T
+Svenljunga		N15572		2018		K, M, T
+
+Säffle		N15436		2019		K
+Säffle		N15488		2018		M
+Säffle		N15488		2019		K, M
+Säffle		N15571		2018		K, M, T
+Säffle		N15571		2019		K, M, T
+Säffle		N15572		2018		K, M, T
+
+Säter		N15436		2017		K
+Säter		N15485		2018		M
+Säter		N15485		2019		K, M
+Säter		N15488		2019		K, T
+Säter		N15571		2017		K, M, T
+Säter		N15571		2018		K, M, T
+Säter		N15571		2019		K, M, T
+Säter		N15572		2018		K, M, T
+
+Sävsjö		N15436		2016		K, M, T
+Sävsjö		N15488		2019		M, T
+Sävsjö		N15569		2016		K, M
+Sävsjö		N15570		2016		K, M
+Sävsjö		N15571		2016		K, M
+Sävsjö		N15571		2017		K
+Sävsjö		N15571		2018		K, M, T
+Sävsjö		N15571		2019		K
+Sävsjö		N15572		2016		K, M
+Sävsjö		N15572		2018		K, M, T
+Sävsjö		N15573		2016		K, M
+Sävsjö		N15573		2019		M
+Sävsjö		N15574		2016		K, M
+Sävsjö		U15461		2016		T
+
+Söderhamn		N15488		2019		K, M
+Söderhamn		N15571		2016		K
+Söderhamn		N15571		2017		K
+Söderhamn		N15571		2018		K, M, T
+Söderhamn		N15571		2019		K, M, T
+Söderhamn		N15572		2018		K, M, T
+
+Söderköping		N15485		2018		M
+Söderköping		N15488		2018		M
+Söderköping		N15488		2019		K, M
+Söderköping		N15569		2017		K, M, T
+Söderköping		N15570		2017		K, M, T
+Söderköping		N15571		2017		K
+Söderköping		N15571		2018		K, M, T
+Söderköping		N15571		2019		K, M, T
+Söderköping		N15572		2018		K, M, T
+
+Södertälje		N15571		2018		K, M, T
+Södertälje		N15572		2018		K, M, T
+
+Sölvesborg		N15571		2017		M
+Sölvesborg		N15571		2018		K, M, T
+Sölvesborg		N15571		2019		M
+Sölvesborg		N15572		2018		K, M, T
+Sölvesborg		N15573		2018		K
+
+Tanum		N15485		2019		K, M
+Tanum		N15488		2018		M
+Tanum		N15488		2019		K, M
+Tanum		N15569		2016		K
+Tanum		N15571		2016		K, M, T
+Tanum		N15571		2017		K
+Tanum		N15571		2018		K, M, T
+Tanum		N15571		2019		K
+Tanum		N15572		2018		K, M, T
+
+Tibro		N15436		2019		K
+Tibro		N15488		2018		M
+Tibro		N15488		2019		K, M
+Tibro		N15569		2017		K, M, T
+Tibro		N15570		2017		K, M, T
+Tibro		N15571		2017		K, M, T
+Tibro		N15571		2018		K, M, T
+Tibro		N15571		2019		M
+Tibro		N15572		2018		K, M, T
+
+Tidaholm		N15488		2018		M
+Tidaholm		N15488		2019		K, M
+Tidaholm		N15569		2019		K
+Tidaholm		N15571		2017		K
+Tidaholm		N15571		2018		K, M, T
+Tidaholm		N15571		2019		K
+Tidaholm		N15572		2018		K, M, T
+
+Tierp		N15571		2018		K, M, T
+Tierp		N15571		2019		K, M, T
+Tierp		N15572		2018		K, M, T
+
+Timrå		N15488		2019		K, M
+Timrå		N15569		2017		K
+Timrå		N15571		2016		K
+Timrå		N15571		2017		K, M, T
+Timrå		N15571		2018		K, M, T
+Timrå		N15571		2019		K, M, T
+Timrå		N15572		2018		K, M, T
+
+Tingsryd		N15485		2019		K, M
+Tingsryd		N15488		2019		K, M
+Tingsryd		N15569		2017		K
+Tingsryd		N15571		2016		K
+Tingsryd		N15571		2017		K
+Tingsryd		N15571		2018		K, M, T
+Tingsryd		N15571		2019		K
+Tingsryd		N15572		2018		K, M, T
+Tingsryd		N15573		2017		K
+
+Tjörn		N15488		2018		M
+Tjörn		N15569		2017		K, M, T
+Tjörn		N15570		2017		K, M, T
+Tjörn		N15571		2017		K, M, T
+Tjörn		N15571		2018		K, M, T
+Tjörn		N15572		2018		K, M, T
+Tjörn		N15573		2018		K, M, T
+Tjörn		N15574		2018		K, M, T
+
+Tomelilla		N15488		2018		M
+Tomelilla		N15488		2019		K, M
+Tomelilla		N15571		2017		K
+Tomelilla		N15571		2018		K, M, T
+Tomelilla		N15571		2019		K, M, T
+Tomelilla		N15572		2018		K, M, T
+
+Torsby		N15488		2019		K, M
+Torsby		N15571		2017		K
+Torsby		N15571		2018		K, M, T
+Torsby		N15572		2018		K, M, T
+
+Torsås		N15436		2017		K
+Torsås		N15436		2018		K
+Torsås		N15485		2016		K, M
+Torsås		N15485		2018		K, M
+Torsås		N15485		2019		K, M
+Torsås		N15488		2016		M
+Torsås		N15488		2019		K, M
+Torsås		N15569		2016		K
+Torsås		N15569		2019		K, M, T
+Torsås		N15570		2019		K, M, T
+Torsås		N15571		2018		K, M, T
+Torsås		N15571		2019		K, M, T
+Torsås		N15572		2018		K, M, T
+Torsås		N15572		2019		K, M, T
+Torsås		N15573		2019		K, M, T
+Torsås		N15574		2019		K, M, T
+
+Tranemo		N15488		2018		M
+Tranemo		N15488		2019		K, M
+Tranemo		N15569		2019		K
+Tranemo		N15571		2017		K, M, T
+Tranemo		N15571		2018		K, M, T
+Tranemo		N15571		2019		K, M, T
+Tranemo		N15572		2018		K, M, T
+
+Tranås		N15488		2018		M
+Tranås		N15488		2019		K, M
+Tranås		N15571		2017		K, M, T
+Tranås		N15571		2018		K, M, T
+Tranås		N15572		2018		K, M, T
+
+Trelleborg		N15571		2017		K
+Trelleborg		N15571		2018		K, M, T
+Trelleborg		N15572		2018		K, M, T
+
+Trollhättan		N15571		2018		K, M, T
+Trollhättan		N15572		2018		K, M, T
+
+Trosa		N15485		2019		K, M
+Trosa		N15488		2018		M
+Trosa		N15488		2019		K, M
+Trosa		N15571		2017		K, M, T
+Trosa		N15571		2018		K, M, T
+Trosa		N15571		2019		K, M, T
+Trosa		N15572		2018		K, M, T
+Trosa		N15573		2016		K
+
+Tyresö		N15488		2018		M
+Tyresö		N15488		2019		K, M
+Tyresö		N15571		2017		K
+Tyresö		N15571		2018		K, M, T
+Tyresö		N15572		2018		K, M, T
+
+Täby		N15485		2019		K, M
+Täby		N15488		2019		K, M
+Täby		N15571		2018		K, M, T
+Täby		N15572		2018		K, M, T
+
+Töreboda		N15485		2018		K, M
+Töreboda		N15488		2016		K
+Töreboda		N15488		2018		K, M
+Töreboda		N15571		2017		K
+Töreboda		N15571		2018		K, M, T
+Töreboda		N15571		2019		M
+Töreboda		N15572		2018		K, M, T
+Töreboda		N15574		2017		M
+
+Uddevalla		N15488		2019		K, M
+Uddevalla		N15569		2017		K
+Uddevalla		N15570		2017		K
+Uddevalla		N15571		2018		K, M, T
+Uddevalla		N15571		2019		M
+Uddevalla		N15572		2018		K, M, T
+
+Ulricehamn		N15488		2018		M
+Ulricehamn		N15488		2019		K, M
+Ulricehamn		N15571		2018		K, M, T
+Ulricehamn		N15572		2018		K, M, T
+
+Umeå		N15571		2018		K, M, T
+Umeå		N15572		2018		K, M, T
+
+Upplands Väsby		N15488		2018		M
+Upplands Väsby		N15571		2016		M
+Upplands Väsby		N15571		2017		K
+Upplands Väsby		N15571		2018		K, M, T
+Upplands Väsby		N15571		2019		K, M, T
+Upplands Väsby		N15572		2018		K, M, T
+
+Upplands-Bro		N15488		2018		M
+Upplands-Bro		N15488		2019		K, M
+Upplands-Bro		N15569		2017		K
+Upplands-Bro		N15571		2018		K, M, T
+Upplands-Bro		N15571		2019		K, M, T
+Upplands-Bro		N15572		2018		K, M, T
+
+Uppsala		N15571		2018		K, M, T
+Uppsala		N15572		2018		K, M, T
+
+Uppvidinge		N15488		2016		K
+Uppvidinge		N15488		2018		K, M
+Uppvidinge		N15571		2017		M
+Uppvidinge		N15571		2018		K, M, T
+Uppvidinge		N15571		2019		K
+Uppvidinge		N15572		2018		K, M, T
+Uppvidinge		N15574		2016		M
+
+Vadstena		N15436		2017		K
+Vadstena		N15436		2018		K, M
+Vadstena		N15485		2018		M
+Vadstena		N15485		2019		K, M
+Vadstena		N15488		2018		K, M
+Vadstena		N15488		2019		K, M, T
+Vadstena		N15569		2017		K, M, T
+Vadstena		N15570		2017		K, M, T
+Vadstena		N15571		2016		K
+Vadstena		N15571		2017		K, M, T
+Vadstena		N15571		2018		K, M, T
+Vadstena		N15571		2019		K, M, T
+Vadstena		N15572		2018		K, M, T
+Vadstena		U15461		2016		T
+
+Vaggeryd		N15571		2018		K, M, T
+Vaggeryd		N15571		2019		K
+Vaggeryd		N15572		2018		K, M, T
+
+Valdemarsvik		N15436		2018		K
+Valdemarsvik		N15436		2019		M
+Valdemarsvik		N15485		2016		K, M
+Valdemarsvik		N15485		2018		K, M
+Valdemarsvik		N15485		2019		K, T
+Valdemarsvik		N15488		2018		M
+Valdemarsvik		N15488		2019		K, M
+Valdemarsvik		N15569		2017		K, M, T
+Valdemarsvik		N15569		2018		K, M, T
+Valdemarsvik		N15569		2019		K, M, T
+Valdemarsvik		N15570		2017		K, M, T
+Valdemarsvik		N15570		2018		K, M, T
+Valdemarsvik		N15570		2019		K, M, T
+Valdemarsvik		N15571		2017		K, M, T
+Valdemarsvik		N15571		2018		K, M, T
+Valdemarsvik		N15571		2019		K, M, T
+Valdemarsvik		N15572		2018		K, M, T
+Valdemarsvik		N15573		2019		K
+Valdemarsvik		N15574		2016		K, M, T
+Valdemarsvik		N15574		2018		M
+
+Vallentuna		N15488		2019		K, M
+Vallentuna		N15571		2018		K, M, T
+Vallentuna		N15572		2018		K, M, T
+
+Vansbro		N15436		2016		K
+Vansbro		N15485		2016		K
+Vansbro		N15488		2016		K, M
+Vansbro		N15488		2018		K, M
+Vansbro		N15488		2019		K, M
+Vansbro		N15569		2019		K
+Vansbro		N15571		2016		K
+Vansbro		N15571		2017		M
+Vansbro		N15571		2018		K, M, T
+Vansbro		N15571		2019		K, M, T
+Vansbro		N15572		2018		K, M, T
+Vansbro		N15573		2018		K
+
+Vara		N15571		2017		K
+Vara		N15571		2018		K, M, T
+Vara		N15571		2019		K, M, T
+Vara		N15572		2018		K, M, T
+
+Varberg		N15571		2018		K, M, T
+Varberg		N15571		2019		K
+Varberg		N15572		2018		K, M, T
+
+Vaxholm		N15436		2019		K, M, T
+Vaxholm		N15485		2019		K, M
+Vaxholm		N15488		2019		K, M, T
+Vaxholm		N15569		2017		K, M, T
+Vaxholm		N15569		2019		K, M, T
+Vaxholm		N15570		2017		K, M, T
+Vaxholm		N15570		2019		K, M, T
+Vaxholm		N15571		2016		K
+Vaxholm		N15571		2017		K, M, T
+Vaxholm		N15571		2018		K, M, T
+Vaxholm		N15571		2019		K, M, T
+Vaxholm		N15572		2018		K, M, T
+Vaxholm		N15574		2016		M
+Vaxholm		U15461		2018		T
+
+Vellinge		N15571		2018		K, M, T
+Vellinge		N15572		2018		K, M, T
+
+Vetlanda		N15488		2018		M
+Vetlanda		N15488		2019		K, M
+Vetlanda		N15569		2017		K, M, T
+Vetlanda		N15569		2019		K
+Vetlanda		N15570		2017		K, M, T
+Vetlanda		N15571		2018		K, M, T
+Vetlanda		N15571		2019		K
+Vetlanda		N15572		2018		K, M, T
+
+Vilhelmina		N15436		2016		K, M
+Vilhelmina		N15436		2019		K
+Vilhelmina		N15485		2016		K
+Vilhelmina		N15485		2018		K, M
+Vilhelmina		N15485		2019		K, M
+Vilhelmina		N15488		2016		M
+Vilhelmina		N15488		2018		M
+Vilhelmina		N15488		2019		K, M
+Vilhelmina		N15569		2019		M
+Vilhelmina		N15571		2017		M
+Vilhelmina		N15571		2018		K, M, T
+Vilhelmina		N15571		2019		K, M, T
+Vilhelmina		N15572		2018		K, M, T
+Vilhelmina		N15574		2016		M
+
+Vimmerby		N15485		2019		K, M
+Vimmerby		N15488		2019		M, T
+Vimmerby		N15571		2017		K
+Vimmerby		N15571		2018		K, M, T
+Vimmerby		N15572		2018		K, M, T
+
+Vindeln		N15419		2016		M
+Vindeln		N15436		2016		K, M
+Vindeln		N15436		2018		K
+Vindeln		N15436		2019		K
+Vindeln		N15485		2016		K, M
+Vindeln		N15485		2018		K, M
+Vindeln		N15485		2019		K, M
+Vindeln		N15488		2016		M
+Vindeln		N15488		2018		K, M
+Vindeln		N15488		2019		M, T
+Vindeln		N15569		2018		K
+Vindeln		N15571		2016		K, M, T
+Vindeln		N15571		2017		K, M, T
+Vindeln		N15571		2018		K, M, T
+Vindeln		N15571		2019		K, M, T
+Vindeln		N15572		2016		M
+Vindeln		N15572		2018		K, M, T
+Vindeln		N15573		2017		K
+
+Vingåker		N15488		2016		K
+Vingåker		N15488		2018		K, M
+Vingåker		N15569		2018		K
+Vingåker		N15571		2017		K, M, T
+Vingåker		N15571		2018		K, M, T
+Vingåker		N15571		2019		K, M, T
+Vingåker		N15572		2018		K, M, T
+Vingåker		N15574		2016		M
+
+Vårgårda		N15488		2019		K, M
+Vårgårda		N15571		2016		K
+Vårgårda		N15571		2017		K, M, T
+Vårgårda		N15571		2018		K, M, T
+Vårgårda		N15571		2019		K
+Vårgårda		N15572		2018		K, M, T
+
+Vänersborg		N15488		2018		M
+Vänersborg		N15488		2019		K, M
+Vänersborg		N15571		2018		K, M, T
+Vänersborg		N15571		2019		K, M, T
+Vänersborg		N15572		2018		K, M, T
+
+Vännäs		N15436		2017		M
+Vännäs		N15485		2019		K, M
+Vännäs		N15569		2018		K
+Vännäs		N15571		2017		K, M, T
+Vännäs		N15571		2018		K, M, T
+Vännäs		N15571		2019		K, M, T
+Vännäs		N15572		2018		K, M, T
+Vännäs		N15573		2017		M
+Vännäs		N15574		2017		M
+
+Värmdö		N15488		2018		M
+Värmdö		N15571		2018		K, M, T
+Värmdö		N15571		2019		K, M, T
+Värmdö		N15572		2018		K, M, T
+
+Värnamo		N15571		2017		M
+Värnamo		N15571		2018		K, M, T
+Värnamo		N15572		2018		K, M, T
+
+Västervik		N15569		2017		K, M, T
+Västervik		N15570		2017		K, M, T
+Västervik		N15571		2017		K, M, T
+Västervik		N15571		2018		K, M, T
+Västervik		N15572		2018		K, M, T
+
+Västerås		N15571		2018		K, M, T
+Västerås		N15572		2018		K, M, T
+
+Växjö		N15571		2018		K, M, T
+Växjö		N15572		2018		K, M, T
+
+Ydre		N15436		2018		K
+Ydre		N15436		2019		K, M
+Ydre		N15485		2016		K, T
+Ydre		N15485		2018		K, M
+Ydre		N15485		2019		K, M
+Ydre		N15488		2016		K, M
+Ydre		N15488		2018		K, M
+Ydre		N15488		2019		K, M, T
+Ydre		N15569		2016		K, M, T
+Ydre		N15569		2017		K, M, T
+Ydre		N15569		2018		K, M, T
+Ydre		N15569		2019		K, M, T
+Ydre		N15570		2017		K, M
+Ydre		N15570		2018		M
+Ydre		N15570		2019		K
+Ydre		N15571		2016		K, M, T
+Ydre		N15571		2017		K, M, T
+Ydre		N15571		2018		K, M, T
+Ydre		N15571		2019		K, M, T
+Ydre		N15572		2018		K, M, T
+Ydre		N15572		2019		K
+Ydre		N15573		2016		K, M, T
+Ydre		N15573		2017		K, M, T
+Ydre		N15573		2018		K, M, T
+Ydre		N15573		2019		K
+Ydre		N15574		2016		K
+Ydre		N15574		2017		K, M, T
+Ydre		N15574		2018		M
+Ydre		N15574		2019		K
+
+Ystad		N15488		2019		K, M
+Ystad		N15571		2018		K, M, T
+Ystad		N15571		2019		K, M, T
+Ystad		N15572		2018		K, M, T
+
+Åmål		N15488		2019		K, M
+Åmål		N15569		2016		K
+Åmål		N15571		2016		K, M, T
+Åmål		N15571		2017		M
+Åmål		N15571		2018		K, M, T
+Åmål		N15571		2019		K, M, T
+Åmål		N15572		2018		K, M, T
+
+Ånge		N15485		2016		M
+Ånge		N15488		2019		K, M
+Ånge		N15571		2017		K, M, T
+Ånge		N15571		2018		K, M, T
+Ånge		N15571		2019		K, M, T
+Ånge		N15572		2018		K, M, T
+
+Åre		N15485		2018		M
+Åre		N15485		2019		K, M
+Åre		N15488		2019		K, M
+Åre		N15571		2017		K
+Åre		N15571		2018		K, M, T
+Åre		N15571		2019		K, M, T
+Åre		N15572		2018		K, M, T
+
+Årjäng		N15485		2018		M
+Årjäng		N15485		2019		K, M
+Årjäng		N15488		2018		M
+Årjäng		N15488		2019		K, M
+Årjäng		N15569		2019		M
+Årjäng		N15571		2016		M
+Årjäng		N15571		2017		K
+Årjäng		N15571		2018		K, M, T
+Årjäng		N15571		2019		K
+Årjäng		N15572		2018		K, M, T
+Årjäng		N15573		2017		K
+
+Åsele		N15436		2016		K, M
+Åsele		N15436		2017		M
+Åsele		N15436		2018		M, T
+Åsele		N15436		2019		K, M, T
+Åsele		N15485		2016		M, T
+Åsele		N15485		2018		K, M, T
+Åsele		N15485		2019		K, M, T
+Åsele		N15488		2018		K, M, T
+Åsele		N15488		2019		K, M, T
+Åsele		N15569		2016		K, M
+Åsele		N15569		2017		K
+Åsele		N15569		2018		M
+Åsele		N15569		2019		K
+Åsele		N15570		2016		K, M
+Åsele		N15570		2017		K, M
+Åsele		N15570		2018		K, M
+Åsele		N15570		2019		M
+Åsele		N15571		2017		M
+Åsele		N15571		2018		K, M, T
+Åsele		N15571		2019		K, M, T
+Åsele		N15572		2016		M
+Åsele		N15572		2018		K, M, T
+Åsele		N15573		2018		K, M
+Åsele		N15574		2016		K, M, T
+Åsele		N15574		2017		K, M, T
+Åsele		N15574		2018		K, M, T
+Åsele		N15574		2019		M
+Åsele		U15461		2018		T
+
+Åstorp		N15488		2019		K, M
+Åstorp		N15569		2017		K, M, T
+Åstorp		N15569		2018		K
+Åstorp		N15569		2019		K
+Åstorp		N15570		2017		K, M, T
+Åstorp		N15571		2017		M
+Åstorp		N15571		2018		K, M, T
+Åstorp		N15571		2019		K
+Åstorp		N15572		2018		K, M, T
+
+Åtvidaberg		N15488		2018		M
+Åtvidaberg		N15571		2017		K, M, T
+Åtvidaberg		N15571		2018		K, M, T
+Åtvidaberg		N15571		2019		M
+Åtvidaberg		N15572		2018		K, M, T
+Åtvidaberg		N15574		2018		K, M, T
+
+Älmhult		N15488		2018		M
+Älmhult		N15488		2019		K, M
+Älmhult		N15569		2017		K, M, T
+Älmhult		N15570		2017		K, M, T
+Älmhult		N15571		2017		K
+Älmhult		N15571		2018		K, M, T
+Älmhult		N15571		2019		M
+Älmhult		N15572		2018		K, M, T
+Älmhult		N15573		2018		K, M, T
+Älmhult		N15574		2018		K, M, T
+
+Älvdalen		N15436		2016		M
+Älvdalen		N15436		2017		K
+Älvdalen		N15436		2018		K
+Älvdalen		N15436		2019		K, M
+Älvdalen		N15485		2016		M
+Älvdalen		N15485		2019		K, M
+Älvdalen		N15488		2018		M
+Älvdalen		N15571		2016		K
+Älvdalen		N15571		2017		M
+Älvdalen		N15571		2018		K, M, T
+Älvdalen		N15572		2018		K, M, T
+Älvdalen		N15573		2017		K
+
+Älvkarleby		N15419		2017		M
+Älvkarleby		N15436		2016		K
+Älvkarleby		N15436		2017		K
+Älvkarleby		N15485		2016		K
+Älvkarleby		N15488		2016		K
+Älvkarleby		N15488		2018		M
+Älvkarleby		N15488		2019		K, M
+Älvkarleby		N15569		2018		M
+Älvkarleby		N15571		2016		M
+Älvkarleby		N15571		2017		K, M, T
+Älvkarleby		N15571		2018		K, M, T
+Älvkarleby		N15571		2019		K, M, T
+Älvkarleby		N15572		2017		M
+Älvkarleby		N15572		2018		K, M, T
+Älvkarleby		N15573		2016		K
+Älvkarleby		N15573		2017		M
+Älvkarleby		N15574		2016		K
+Älvkarleby		N15574		2017		M
+
+Älvsbyn		N15436		2017		K
+Älvsbyn		N15436		2018		K
+Älvsbyn		N15436		2019		M, T
+Älvsbyn		N15485		2018		M
+Älvsbyn		N15485		2019		K, M, T
+Älvsbyn		N15488		2018		K, M
+Älvsbyn		N15488		2019		K, M, T
+Älvsbyn		N15571		2016		K
+Älvsbyn		N15571		2017		K, M, T
+Älvsbyn		N15571		2018		K, M, T
+Älvsbyn		N15571		2019		K, M, T
+Älvsbyn		N15572		2018		K, M, T
+Älvsbyn		N15573		2018		K
+Älvsbyn		N15574		2018		K, M
+
+Ängelholm		N15571		2018		K, M, T
+Ängelholm		N15572		2018		K, M, T
+
+Öckerö		N15436		2019		K
+Öckerö		N15485		2018		K
+Öckerö		N15485		2019		K, M
+Öckerö		N15488		2018		M
+Öckerö		N15488		2019		K, M
+Öckerö		N15569		2017		K, M
+Öckerö		N15569		2019		K
+Öckerö		N15570		2017		K, M
+Öckerö		N15571		2017		K
+Öckerö		N15571		2018		K, M, T
+Öckerö		N15572		2018		K, M, T
+Öckerö		N15573		2018		K
+
+Ödeshög		N15436		2016		K, M
+Ödeshög		N15436		2017		K
+Ödeshög		N15436		2019		K
+Ödeshög		N15485		2018		K
+Ödeshög		N15488		2016		M
+Ödeshög		N15488		2018		K, M
+Ödeshög		N15488		2019		M, T
+Ödeshög		N15569		2017		K, M, T
+Ödeshög		N15570		2017		K, M, T
+Ödeshög		N15571		2018		K, M, T
+Ödeshög		N15571		2019		K, M, T
+Ödeshög		N15572		2018		K, M, T
+Ödeshög		N15573		2017		K
+Ödeshög		N15574		2016		K
+Ödeshög		N15574		2019		M
+
+Örebro		N15571		2018		K, M, T
+Örebro		N15572		2018		K, M, T
+
+Örkelljunga		N15436		2017		K
+Örkelljunga		N15488		2016		K
+Örkelljunga		N15488		2018		M
+Örkelljunga		N15488		2019		M, T
+Örkelljunga		N15571		2017		K
+Örkelljunga		N15571		2018		K, M, T
+Örkelljunga		N15571		2019		K, M, T
+Örkelljunga		N15572		2018		K, M, T
+Örkelljunga		N15573		2017		K
+Örkelljunga		N15574		2017		M
+
+Örnsköldsvik		N15571		2018		K, M, T
+Örnsköldsvik		N15572		2018		K, M, T
+
+Östersund		N15571		2018		K, M, T
+Östersund		N15572		2018		K, M, T
+
+Österåker		N15488		2018		M
+Österåker		N15571		2018		K, M, T
+Österåker		N15571		2019		M
+Österåker		N15572		2018		K, M, T
+
+Östhammar		N15488		2018		M
+Östhammar		N15571		2017		K
+Östhammar		N15571		2018		K, M, T
+Östhammar		N15571		2019		K
+Östhammar		N15572		2018		K, M, T
+
+Östra Göinge		N15488		2018		M
+Östra Göinge		N15488		2019		K, M
+Östra Göinge		N15571		2017		K
+Östra Göinge		N15571		2018		K, M, T
+Östra Göinge		N15571		2019		K, M, T
+Östra Göinge		N15572		2018		K, M, T
+
+Överkalix		N15419		2016		K, M
+Överkalix		N15419		2017		K, M
+Överkalix		N15419		2019		K
+Överkalix		N15436		2016		K, M, T
+Överkalix		N15436		2017		K, M
+Överkalix		N15436		2019		K, M
+Överkalix		N15485		2016		K, M
+Överkalix		N15485		2017		K
+Överkalix		N15485		2018		K, M
+Överkalix		N15485		2019		K, M, T
+Överkalix		N15488		2016		K, M, T
+Överkalix		N15488		2017		K, M
+Överkalix		N15488		2018		K, M, T
+Överkalix		N15488		2019		K, M, T
+Överkalix		N15505		2017		K, M
+Överkalix		N15569		2016		K, M
+Överkalix		N15569		2017		K, M
+Överkalix		N15569		2018		K, M, T
+Överkalix		N15569		2019		K, M
+Överkalix		N15570		2016		K, M
+Överkalix		N15570		2017		K, M
+Överkalix		N15570		2018		K, M, T
+Överkalix		N15570		2019		K, M
+Överkalix		N15571		2016		K, M, T
+Överkalix		N15571		2017		K
+Överkalix		N15571		2018		K, M, T
+Överkalix		N15571		2019		K, M, T
+Överkalix		N15572		2016		K, M
+Överkalix		N15572		2017		K, M
+Överkalix		N15572		2018		K, M, T
+Överkalix		N15572		2019		K
+Överkalix		N15573		2016		K, M
+Överkalix		N15573		2017		K
+Överkalix		N15573		2018		K, M, T
+Överkalix		N15573		2019		K
+Överkalix		N15574		2016		K, M
+Överkalix		N15574		2017		K
+Överkalix		N15574		2019		K
+Överkalix		U15461		2016		T
+
+Övertorneå		N15436		2019		M
+Övertorneå		N15485		2016		M
+Övertorneå		N15485		2018		K, T
+Övertorneå		N15485		2019		K, M, T
+Övertorneå		N15488		2016		K, M, T
+Övertorneå		N15488		2018		K, T
+Övertorneå		N15488		2019		K, M
+Övertorneå		N15569		2016		M
+Övertorneå		N15569		2017		M
+Övertorneå		N15569		2018		K
+Övertorneå		N15569		2019		K, M, T
+Övertorneå		N15570		2017		M
+Övertorneå		N15570		2018		K
+Övertorneå		N15571		2016		K, M, T
+Övertorneå		N15571		2017		M
+Övertorneå		N15571		2018		K, M, T
+Övertorneå		N15571		2019		K, M, T
+Övertorneå		N15572		2017		M
+Övertorneå		N15572		2018		K, M, T
+Övertorneå		N15573		2016		K, M, T
+Övertorneå		N15573		2017		M
+Övertorneå		N15573		2018		K, M, T
+Övertorneå		N15573		2019		K
+Övertorneå		N15574		2017		K, M, T
+Övertorneå		N15574		2018		K
+

@@ -1,0 +1,199 @@
+DIAGRAM 1
+
+
+VILKA ÅR SOM SAKNAS FÖR RESPEKTIVE KOMMUN OCH NYCKELTAL
+
+
+Nyckeltal N15419, 2016, Arjeplog.
+Nyckeltal N15419, 2016, Bjurholm.
+Nyckeltal N15419, 2016, Dorotea.
+Nyckeltal N15419, 2016, Jokkmokk.
+Nyckeltal N15419, 2016, Ljusnarsberg.
+Nyckeltal N15419, 2016, Skinnskatteberg.
+Nyckeltal N15419, 2016, Vindeln.
+Nyckeltal N15419, 2016, Överkalix.
+
+Nyckeltal N15419, 2017, Arjeplog.
+Nyckeltal N15419, 2017, Skinnskatteberg.
+Nyckeltal N15419, 2017, Älvkarleby.
+Nyckeltal N15419, 2017, Överkalix.
+
+Nyckeltal N15419, 2018, Arjeplog.
+Nyckeltal N15419, 2018, Bjurholm.
+Nyckeltal N15419, 2018, Dorotea.
+Nyckeltal N15419, 2018, Ljusnarsberg.
+Nyckeltal N15419, 2018, Skinnskatteberg.
+Nyckeltal N15419, 2018, Sorsele.
+
+Nyckeltal N15419, 2019, Bjurholm.
+Nyckeltal N15419, 2019, Dorotea.
+Nyckeltal N15419, 2019, Sorsele.
+Nyckeltal N15419, 2019, Överkalix.
+
+
+Nyckeltal N15505, 2016, Bjurholm.
+Nyckeltal N15505, 2016, Dorotea.
+
+Nyckeltal N15505, 2017, Arjeplog.
+Nyckeltal N15505, 2017, Överkalix.
+
+Nyckeltal N15505, 2018, Skinnskatteberg.
+Nyckeltal N15505, 2018, Sorsele.
+
+Nyckeltal N15505, 2019, Dorotea.
+
+
+Nyckeltal N15436, 2016, Aneby.
+Nyckeltal N15436, 2016, Arjeplog.
+Nyckeltal N15436, 2016, Berg.
+Nyckeltal N15436, 2016, Bjurholm.
+Nyckeltal N15436, 2016, Bollebygd.
+Nyckeltal N15436, 2016, Boxholm.
+Nyckeltal N15436, 2016, Dals-Ed.
+Nyckeltal N15436, 2016, Dorotea.
+Nyckeltal N15436, 2016, Eda.
+Nyckeltal N15436, 2016, Essunga.
+Nyckeltal N15436, 2016, Färgelanda.
+Nyckeltal N15436, 2016, Grästorp.
+Nyckeltal N15436, 2016, Herrljunga.
+Nyckeltal N15436, 2016, Hällefors.
+Nyckeltal N15436, 2016, Högsby.
+Nyckeltal N15436, 2016, Jokkmokk.
+Nyckeltal N15436, 2016, Karlsborg.
+Nyckeltal N15436, 2016, Kungsör.
+Nyckeltal N15436, 2016, Laxå.
+Nyckeltal N15436, 2016, Lekeberg.
+Nyckeltal N15436, 2016, Ljusnarsberg.
+Nyckeltal N15436, 2016, Malå.
+Nyckeltal N15436, 2016, Munkfors.
+Nyckeltal N15436, 2016, Norberg.
+Nyckeltal N15436, 2016, Nordanstig.
+Nyckeltal N15436, 2016, Nordmaling.
+Nyckeltal N15436, 2016, Norsjö.
+Nyckeltal N15436, 2016, Ockelbo.
+Nyckeltal N15436, 2016, Orsa.
+Nyckeltal N15436, 2016, Ragunda.
+Nyckeltal N15436, 2016, Robertsfors.
+Nyckeltal N15436, 2016, Storfors.
+Nyckeltal N15436, 2016, Storuman.
+Nyckeltal N15436, 2016, Sävsjö.
+Nyckeltal N15436, 2016, Vansbro.
+Nyckeltal N15436, 2016, Vilhelmina.
+Nyckeltal N15436, 2016, Vindeln.
+Nyckeltal N15436, 2016, Åsele.
+Nyckeltal N15436, 2016, Älvdalen.
+Nyckeltal N15436, 2016, Älvkarleby.
+Nyckeltal N15436, 2016, Ödeshög.
+Nyckeltal N15436, 2016, Överkalix.
+
+Nyckeltal N15436, 2017, Arjeplog.
+Nyckeltal N15436, 2017, Bjurholm.
+Nyckeltal N15436, 2017, Dorotea.
+Nyckeltal N15436, 2017, Eda.
+Nyckeltal N15436, 2017, Essunga.
+Nyckeltal N15436, 2017, Hofors.
+Nyckeltal N15436, 2017, Högsby.
+Nyckeltal N15436, 2017, Karlsborg.
+Nyckeltal N15436, 2017, Kinda.
+Nyckeltal N15436, 2017, Mullsjö.
+Nyckeltal N15436, 2017, Nordmaling.
+Nyckeltal N15436, 2017, Ockelbo.
+Nyckeltal N15436, 2017, Orsa.
+Nyckeltal N15436, 2017, Robertsfors.
+Nyckeltal N15436, 2017, Skinnskatteberg.
+Nyckeltal N15436, 2017, Smedjebacken.
+Nyckeltal N15436, 2017, Sorsele.
+Nyckeltal N15436, 2017, Storfors.
+Nyckeltal N15436, 2017, Storuman.
+Nyckeltal N15436, 2017, Säter.
+Nyckeltal N15436, 2017, Torsås.
+Nyckeltal N15436, 2017, Vadstena.
+Nyckeltal N15436, 2017, Vännäs.
+Nyckeltal N15436, 2017, Åsele.
+Nyckeltal N15436, 2017, Älvdalen.
+Nyckeltal N15436, 2017, Älvkarleby.
+Nyckeltal N15436, 2017, Älvsbyn.
+Nyckeltal N15436, 2017, Ödeshög.
+Nyckeltal N15436, 2017, Örkelljunga.
+Nyckeltal N15436, 2017, Överkalix.
+
+Nyckeltal N15436, 2018, Arjeplog.
+Nyckeltal N15436, 2018, Arvidsjaur.
+Nyckeltal N15436, 2018, Bjurholm.
+Nyckeltal N15436, 2018, Borgholm.
+Nyckeltal N15436, 2018, Dals-Ed.
+Nyckeltal N15436, 2018, Dorotea.
+Nyckeltal N15436, 2018, Essunga.
+Nyckeltal N15436, 2018, Grästorp.
+Nyckeltal N15436, 2018, Hofors.
+Nyckeltal N15436, 2018, Jokkmokk.
+Nyckeltal N15436, 2018, Karlsborg.
+Nyckeltal N15436, 2018, Malå.
+Nyckeltal N15436, 2018, Munkfors.
+Nyckeltal N15436, 2018, Nordanstig.
+Nyckeltal N15436, 2018, Nordmaling.
+Nyckeltal N15436, 2018, Norsjö.
+Nyckeltal N15436, 2018, Ockelbo.
+Nyckeltal N15436, 2018, Pajala.
+Nyckeltal N15436, 2018, Perstorp.
+Nyckeltal N15436, 2018, Ragunda.
+Nyckeltal N15436, 2018, Skinnskatteberg.
+Nyckeltal N15436, 2018, Sorsele.
+Nyckeltal N15436, 2018, Storfors.
+Nyckeltal N15436, 2018, Storuman.
+Nyckeltal N15436, 2018, Torsås.
+Nyckeltal N15436, 2018, Vadstena.
+Nyckeltal N15436, 2018, Valdemarsvik.
+Nyckeltal N15436, 2018, Vindeln.
+Nyckeltal N15436, 2018, Ydre.
+Nyckeltal N15436, 2018, Åsele.
+Nyckeltal N15436, 2018, Älvdalen.
+Nyckeltal N15436, 2018, Älvsbyn.
+
+Nyckeltal N15436, 2019, Aneby.
+Nyckeltal N15436, 2019, Arjeplog.
+Nyckeltal N15436, 2019, Arvidsjaur.
+Nyckeltal N15436, 2019, Bjurholm.
+Nyckeltal N15436, 2019, Boxholm.
+Nyckeltal N15436, 2019, Dals-Ed.
+Nyckeltal N15436, 2019, Dorotea.
+Nyckeltal N15436, 2019, Eda.
+Nyckeltal N15436, 2019, Grästorp.
+Nyckeltal N15436, 2019, Hammarö.
+Nyckeltal N15436, 2019, Hjo.
+Nyckeltal N15436, 2019, Hofors.
+Nyckeltal N15436, 2019, Hällefors.
+Nyckeltal N15436, 2019, Jokkmokk.
+Nyckeltal N15436, 2019, Kalix.
+Nyckeltal N15436, 2019, Karlsborg.
+Nyckeltal N15436, 2019, Lomma.
+Nyckeltal N15436, 2019, Malå.
+Nyckeltal N15436, 2019, Mullsjö.
+Nyckeltal N15436, 2019, Munkfors.
+Nyckeltal N15436, 2019, Mörbylånga.
+Nyckeltal N15436, 2019, Nordanstig.
+Nyckeltal N15436, 2019, Norsjö.
+Nyckeltal N15436, 2019, Nykvarn.
+Nyckeltal N15436, 2019, Orsa.
+Nyckeltal N15436, 2019, Ragunda.
+Nyckeltal N15436, 2019, Robertsfors.
+Nyckeltal N15436, 2019, Rättvik.
+Nyckeltal N15436, 2019, Skinnskatteberg.
+Nyckeltal N15436, 2019, Sorsele.
+Nyckeltal N15436, 2019, Storfors.
+Nyckeltal N15436, 2019, Säffle.
+Nyckeltal N15436, 2019, Tibro.
+Nyckeltal N15436, 2019, Valdemarsvik.
+Nyckeltal N15436, 2019, Vaxholm.
+Nyckeltal N15436, 2019, Vilhelmina.
+Nyckeltal N15436, 2019, Vindeln.
+Nyckeltal N15436, 2019, Ydre.
+Nyckeltal N15436, 2019, Åsele.
+Nyckeltal N15436, 2019, Älvdalen.
+Nyckeltal N15436, 2019, Älvsbyn.
+Nyckeltal N15436, 2019, Öckerö.
+Nyckeltal N15436, 2019, Ödeshög.
+Nyckeltal N15436, 2019, Överkalix.
+Nyckeltal N15436, 2019, Övertorneå.
+
+
